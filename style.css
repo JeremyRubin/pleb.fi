@@ -3,7 +3,7 @@ body {
  margin:40px auto;
  padding:0 10px;
  font:18px/1.5;
-font-family: "Comic Sans MS", "Comic Sans", cursive;
+ font-family: "Comic Sans MS", "Comic Sans", 'Marker Felt', sans-serif; 
  color:#444
 }
 h1,
@@ -15,4 +15,8 @@ h3 {
 img {
     margin: auto;
     display: block;
+    max-width:100%;
+}
+iframe {
+    max-width:100%;
 }
