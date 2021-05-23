@@ -20,3 +20,6 @@ img {
 iframe {
     max-width:100%;
 }
+table {
+    text-align: left;
+}
