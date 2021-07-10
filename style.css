@@ -8,7 +8,9 @@
 }
 h1,
 h2,
-h3 {
+h3,
+h4,
+h5 {
  line-height:1.2;
  text-align:center;
 }
@@ -43,4 +45,10 @@ table {
       gap: 0px 0px;
       grid-auto-flow: row;
       gap: 0px 2em; 
+    }
+
+    @media screen and (max-width: 1024px) {
+        .twitter-timeline {
+            display: none !important;
+        }
     }
