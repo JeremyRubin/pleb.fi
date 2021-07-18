@@ -1,0 +1,54 @@
+.container {
+ max-width:650px;
+ margin:40px auto;
+ padding:0 10px;
+ font:18px/1.5;
+ font-family: "Comic Sans MS", "Comic Sans", 'Marker Felt', sans-serif; 
+ color:#444
+}
+h1,
+h2,
+h3,
+h4,
+h5 {
+ line-height:1.2;
+ text-align:center;
+}
+img {
+    margin: auto;
+    display: block;
+    max-width:100%;
+}
+iframe {
+    max-width:100%;
+}
+table {
+    text-align: left;
+}
+
+.tweets-container {
+
+ margin:40px auto;
+ padding:0 10px;
+ max-width:1300px;
+ font:18px/1.5;
+ font-family: "Comic Sans MS", "Comic Sans", 'Marker Felt', sans-serif; 
+ color:#444
+}
+    .tweets {
+
+
+
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-auto-rows: 1fr;
+      gap: 0px 0px;
+      grid-auto-flow: row;
+      gap: 0px 2em; 
+    }
+
+    @media screen and (max-width: 1024px) {
+        .twitter-timeline {
+            display: none !important;
+        }
+    }
