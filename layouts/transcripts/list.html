@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main>
+  <div>
+   <h1>{{ .Title }}</h1>
+        <ul>
+        <!-- Renders the li.html content view for each content/posts/*.md -->
+            {{ range .Pages }}
+                {{ .Render "li"}}
+            {{ end }}
+        </ul>
+  </div>
+</main>
+{{ end }}
