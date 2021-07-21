@@ -31,6 +31,8 @@
         Your browser does not support the audio element.
     </audio>
     <a class="twitter-share-button" href="https://twitter.com/intent/tweet" data-size="large"> Tweet</a>
+    {{.Scratch.Set "handle" "pleb.fi"}}
+    {{ partial "followinstagram.html" . }}
     <div>
         <article id="content">
             {{ .Content }}
