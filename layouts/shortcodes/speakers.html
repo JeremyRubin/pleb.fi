@@ -1,0 +1,22 @@
+<div class="tweets-container">
+    <div class="tweets">
+        {{ range $speaker := .Site.Data.events.austin.speakers }}
+        <div class="speaker-info">
+            <h3>{{$speaker.name}}</h3>
+            <p>
+            {{$speaker.topic | safeHTML}}
+            </p>
+            <div class="speaker-fun">
+                {{ if $speaker.twitter }}
+                <a class="twitter-timeline" data-width="400" data-height="200" data-theme="dark"
+                                                                               href="https://twitter.com/{{$speaker.twitter}}">Tweets
+                                                                               by
+                                                                               {{$speaker.twitter}}</a>
+                {{ else }}
+                {{$speaker.untwitter | safeHTML}}
+                {{end}}
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>

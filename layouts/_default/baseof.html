@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta charset="utf-8">
         <title>{{ block "title" . }} {{.Page.Title}} -- {{ .Site.Title }} {{ end }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="pleb.fi.">
-        <link rel="stylesheet" href="/style.css?v=1">
+        <title>{{ block "description" . }} {{.Page.Description}} {{ end }}</title>
+        <link rel="stylesheet" href="/style.css?v=4">
         <link rel="me" href="https://twitter.com/PlebFi" >
         <meta name="twitter:dnt" content="on">
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -13,13 +14,13 @@
     <body>
 
         <div class="container">
-            <!-- Code that all your templates share, like a header -->
             {{ block "main" . }}
-            <!-- The part of the page that begins to differ between templates -->
             {{ end }}
         </div>
         {{ block "footer" . }}
-        <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
         {{ end }}
+        <div class="container">
+        {{ partial "footer.html"}}
+        </div>
     </body>
 </html>
