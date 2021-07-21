@@ -73,3 +73,11 @@ table {
         display: none !important;
     }
 }
+.flash {
+    background-color: red;
+    text-align:center;
+    padding:5px;
+}
+.flash > a {
+    color: white;
+}
