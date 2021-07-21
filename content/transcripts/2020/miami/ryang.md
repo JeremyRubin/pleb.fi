@@ -5,7 +5,6 @@ audio: /audio/events/2020/miami/ryang.mp3
 slides: https://cryptofees.info
 author: Ryan Gentry
 ---
-Jeremy Rubin  0:00  
 ## Jeremy Rubin  {{< audioskip "0:00" >}}
 Let's give a big thank you to Tarun for that that was really, really awesome.
 And are you gonna be able to stick around for a bit? I'll be around, I will
