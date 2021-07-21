@@ -1,6 +1,6 @@
 ---
 date: "2021-06-09"
-title: "Fees & Smart Contracts"
+title: "fees & smart contracts"
 audio: /audio/events/2020/miami/ryang.mp3
 slides: https://cryptofees.info
 author: Ryan Gentry
@@ -32,7 +32,7 @@ I don't know if people have seen this, but I just wanted to pull it up really
 quick. So I think this is like, on the existential question of, "why?", and
 "should we do this?"
 
-<iframe src="https://cryptofees.info"></iframe>
+{{< iframeraw "https://cryptofees.info" 500px >}}
 
 ## Ryan Gentry  {{< audioskip "1:50" >}}
 I look at this relatively often. This is crazy, right? The amount of fees

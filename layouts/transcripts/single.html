@@ -25,14 +25,6 @@
             </ul>
             {{ end }}
         </div>
-        <div>
-            {{ with .PrevInSection }}
-            <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
-            {{ end }}
-            {{ with .NextInSection }}
-            <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
-            {{ end }}
-        </div>
     </aside>
     <audio controls id="transcript_audio">
         <source src="{{.Params.audio}}">
@@ -45,4 +37,18 @@
         </article>
     </div>
 </section>
+<hr>
+<aside>
+    <div>
+        {{ with .PrevInSection }}
+        Previous:
+        <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+        {{ with .NextInSection }}
+        Next:
+        <a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+        <a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+        {{ end }}
+    </div>
+</aside>
 {{end}}
