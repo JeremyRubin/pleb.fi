@@ -13,6 +13,17 @@ description: pleb.fi. austin event, the biggest fun you can imagine.
 
 ## bring your pajamas
 ## (there's a hackathon)
+#### sponsored by (clickable)
+<div style="position: relative;">
+  <img src="/austinsponsorbanner.png" style="width: 100%; height: auto;">
+  <a href="https://tvp.fund"><div style="position: absolute; left: 15%; top: 20%; width: 20%; height: 24%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a href="https://lnpay.co"><div style="position: absolute; left: 15%; top: 60%; width: 15%; height: 20%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a href="https://judica.org"><div style="position: absolute; left: 45%; top: 50%; width: 18%; height: 16%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a href="https://nydig.com"><div style="position: absolute; left: 70%; top: 55%; width: 15%; height: 25%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a href="https://joinlincoln.org"><div style="position: absolute; left: 60%; top: 22%; width: 10%; height: 20%; background-color: rgba(0, 0, 0, 0);"></div></a>
+  <a href="https://unchained-capital.com"><div style="position: absolute; left: 72%; top: 26%; width: 14%; height: 23%; background-color: rgba(0, 0, 0, 0);"></div></a>
+</div>
+
 ### <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=i%20am%20a%20total%20pleb%20and%20i%20wanna%20go%20to&hashtags=bitcoin" data-size="large"> Tweet</a>
 ###    let us know how bad you wanna come<br> but also... 
 
