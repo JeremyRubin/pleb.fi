@@ -68,8 +68,8 @@ to ensure that our limited space goes to people who want to be there, no
 flakes; 2) we're going to ensure there's good food available throughout the
 event. we're running the event as not-for-profit, any excess funds will go to
 supporting our non-profit partner or future events. if paying for a ticket is
-an obstacle for your attendance, please let us know and we'll work something
-out.
+an obstacle for your attendance, please let us know by filling out [this
+form](https://forms.gle/66mMcK2gbtftwCLr9) and we'll work something out.
 
 ************************ ************************ ************************ ************************
 
