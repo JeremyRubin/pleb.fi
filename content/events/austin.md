@@ -25,11 +25,10 @@ description: pleb.fi. austin event, the biggest fun you can imagine.
 </div>
 
 ### <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=i%20am%20a%20total%20pleb%20and%20i%20wanna%20go%20to&hashtags=bitcoin" data-size="large"> Tweet</a>
-###    let us know how bad you wanna come<br> but also... 
 
-# fill out the [form](https://docs.google.com/forms/d/e/1FAIpQLSchz7b5AhvTT_7l4AShOkbvKt_2bMv2Hb01lE6ameYUFIWD6g/viewform)
+# we are at capacity so...
+# join the [waitlist](https://forms.gle/FGnuG9r9UCU7hUx8A)
 
-### $60 hackathon + workshop or $35 each
 
 ****************** ****************** ******************
 
@@ -78,8 +77,7 @@ form](https://forms.gle/66mMcK2gbtftwCLr9) and we'll work something out.
 
 {{< speakers   >}}
 
-# you're still here, anon?
-# fill the fuckin <a href="https://docs.google.com/forms/d/e/1FAIpQLSchz7b5AhvTT_7l4AShOkbvKt_2bMv2Hb01lE6ameYUFIWD6g/viewform">form</a> out
+
 ### with love, the organizers:
 {{< organizers   >}}
 
