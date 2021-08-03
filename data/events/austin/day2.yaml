@@ -1,0 +1,83 @@
+-
+    begins: 9:00 AM
+    ends: 10:00 AM
+    type: meal
+    topic: breakfast
+    speakers:
+      -
+        name: tummy
+    description: you've been up all night hacking, and now your stomach feels
+      like a (const void*). come and fill up the tank.
+-
+    begins: 10:00 AM
+    ends: 10:30 AM
+    type: deadline
+    topic: team registration deadline
+    description: who are you anons? we ask by the morning you submit basic team
+      information... we're not sure why, but it's a good idea. you can fill
+      this out whenver.
+-
+    begins: 12:00 PM
+    ends: 1:00 PM
+    type: meal
+    topic: Lunch
+    speakers: 
+      -
+        name: APpEtite
+    description: u need brain food right? last stretch, bring it home.
+-
+    begins: 4:00 PM
+    ends: 4:15 PM
+    type: deadline
+    topic: Submissions Due
+    description: times up. pencils down. congratulations. you made it. no matter what we are proud of you.
+-
+    begins: 4:15 AM
+    ends: 5:00 AM
+    type: meal
+    topic: ice cream break
+    description: "scoop: pleb.fi reports that ice cream is a good way to unwind and reset while you think about how to present yourself"
+-
+    begins: 5:00 PM
+    ends: 6:00 PM
+    type: talk
+    topic: presentations / demos
+    speakers:
+      - name: every pleb
+    description: step into the limelight and show us what you made. we are so very excited to see it.
+-
+    begins: 6:00 PM
+    ends: 6:30 PM
+    type: panel
+    topic: "q&a: taking your project to the next stage"
+    speakers:
+      - 
+        name: christopher calicott
+
+        twitter: mecee
+      - 
+        name: oleg mikhalsky
+        twitter: olegmikh
+    description: vc funding, locations, and hiring, oh my! we're going to have
+      some subject matter experts expound on how you can take what you've been
+      working on to the next level.
+-
+    begins: 6:30 PM
+    ends: 7:00 PM
+    type: talk
+    topic: awards
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: we got some good shit to give out to the top projects (money).
+      we'll keep it quick. you're all winners where it counts.
+-
+    begins: 7:00 PM
+    ends: 10:00 PM
+    type: meal
+    topic: pizza + beer
+    description: one last meal together. celebrate, drown your sorrows,
+      whatever. we'll hang out eat our fill, and then go back to our normie
+      lives afterwards.
+

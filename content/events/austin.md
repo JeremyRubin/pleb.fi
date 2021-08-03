@@ -32,7 +32,9 @@ description: pleb.fi. austin event, the biggest fun you can imagine.
 
 ****************** ****************** ******************
 
-# (rough) schedule
+# key dates
+
+_see below for exact agenda._
 - **sat 21st august day: workshops + talks**
 - **sat 21st august evening: hackathon kickoff**
 - **sunday 22nd august day: hackathon**
@@ -72,10 +74,11 @@ form](https://forms.gle/66mMcK2gbtftwCLr9) and we'll work something out.
 
 ************************ ************************ ************************ ************************
 
-## unconfirmed speakers
-##### (more details to be added)
+## the (not) secret pleb.fi agenda
 
-{{< speakers   >}}
+_we may adjust this as we near the event..._
+
+{{< schedule   >}}
 
 
 ### with love, the organizers:

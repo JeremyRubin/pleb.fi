@@ -1,0 +1,42 @@
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+</style>
+{{ range $agenda := slice (slice .Site.Data.events.austin.day1 "day 1 workshop : august 21st 2021") (slice .Site.Data.events.austin.day2 "day 2 hackathon: august 22nd 2021")}}
+<h1> {{index $agenda 1}} </h1>
+<table>
+    <thead>
+        <tr>
+            <th>topic<br> speaker</th>
+            <th> description </th>
+            <th>start</th>
+            <th>end</th>
+        </tr>
+    </thead>
+    <tbody >
+        {{ range $session := index $agenda 0 }}
+        <tr>
+            <td>
+                <b>{{$session.topic}}</b>
+                {{ if $session.speakers }}
+                <p>
+                {{range $speaker := $session.speakers}}
+                    {{if $speaker.twitter }}
+                    <a href="https://twitter.com/{{$speaker.twitter}}">{{$speaker.name}}</a><br>
+                    {{ else }}
+                        {{$speaker.name}}
+                    {{end}}
+                {{ end }}</p>
+                {{end}}
+            </td>
+            <td> {{$session.description}}</td>
+            <td>{{$session.begins}}</td>
+            <td> {{$session.ends}}</td>
+        </tr>
+        {{ end }}
+    </tbody>
+</table>
+{{end}}

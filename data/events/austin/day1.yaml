@@ -1,0 +1,239 @@
+-
+    begins: 8:00 AM
+    ends: 9:00 AM
+    topic: breakfast
+    type: meal
+    speakers:
+      -
+        name: your belly
+        twitter: 
+    description: come hungry for food leave hungry for knowledge
+-
+    begins: 9:00 AM
+    ends: 9:05 AM
+    topic: kickoff
+    type: talk
+    speakers:
+      -
+        name: sarah satoshi
+        twitter: satoshisarah
+    description: sarah's gonna get us started with an overview of the day,
+      ground rulez, and a 1 minute guided bitcoin meditation.
+-
+    begins: 9:05 AM
+    ends: 9:25 AM
+    topic: open source bitcoin design
+    type: talk
+    speakers:
+      -
+        name: patricia robinson
+        twitter: 
+    description: learn about how design doesn't have to happen behind closed
+      doors with box-shadow-y pixel pushers, it can happen in the open!
+-
+    begins: 9:25 AM
+    ends: 9:35 AM
+    topic: bitcoin movie trailer
+    type: talk
+    speakers:
+      - 
+        name: rob
+        twitter: bitcoiner_movie
+    description: rob is going to be -- with your consent to appear -- filming
+      during the event. he's working on a dope documentary, so we're gonna get
+      a sneak peek and hear more about it.
+-
+    begins: 9:35 AM
+    ends: 10:05 AM
+    topic: "how to make your ux not a snoozefest\n"
+    type: talk
+    speakers:
+      -
+        name: rachel mersky
+        twitter: themersk
+    description: rachel mersky is the head of design at fold, and that tells
+      you probably all you need to know about how fun this talk is gonna be.
+-
+    begins: 10:05 AM
+    ends: 10:35 AM
+    topic: b^4 altcoins
+    type: fireside
+    speakers:
+      -
+        name: ryan gentry
+        twitter: ryanthegentry
+      -
+        name: nathan wilcox
+        twitter: least_nathan
+    description: shitcoiners learn from experience. bitcoiners learn from the
+      experience of others. -otto von ₿ismarck
+
+      building back better for bitcoin by learning from altcoin innovations.
+-
+    begins: 10:35 AM
+    ends: 11:15 AM
+    topic: "you are #ngmi"
+    type: panel
+    speakers:
+      -
+        name: udi wertheimer
+        twitter: udiwertheimer
+      -
+        name: allison reichel
+        twitter: allisonreichel
+      -
+        name: tarun chitra
+        twitter: tarunchitra
+    description: will you make it? prolly not. honestly, we're not sure what's
+      going to happen here, but you're not gonna wanna miss it.
+-
+    begins: 11:15 AM
+    ends: 11:40 AM
+    topic: "Sapio Lecture I: Basics"
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: school's in session and it's time to learn sapio. i'll break
+      down the motives behind sapio, ctv, and go over the basic workings of the
+      platform.
+-
+    begins: 11:40 AM
+    ends: 12:10 PM
+    topic: "Sapio Hands On I: Basics"
+    type: workshop
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: who dat, me again. this time we'll go hands on with some easy exercises to get you going with sapio.
+-
+    begins: 12:10 PM
+    ends: 1:00 PM
+    topic: lunch
+    type: meal
+    speakers: 
+      -
+        name: go with your gut
+    description: pb&j's anyone? (someone is prolly allergic)
+-
+    begins: 1:00 PM
+    ends: 1:30 PM
+    topic: "doing stuff with discreet log contracts\n\n"
+    type: talk
+    speakers: 
+      -
+        name: ben carman
+        twitter: benthecarman
+    description: sneaky sneaky contract don't peeky -- ben is gonna give us the
+      DL on DLs and what you could build with them.
+-
+    begins: 1:30 PM
+    ends: 2:00 PM
+    topic: liquidity bootstrapping
+    type: talk
+    speakers: 
+      -
+        name: parker white
+        twitter: null
+    description: starting a new protocol? how do you get the ball rolling so
+      end users experience a liquid market?
+-
+    begins: 2:00 PM
+    ends: 2:30 PM
+    topic: lnpay workshop
+    type: workshop
+    speakers: 
+      -
+        name: tim k
+        twitter: bootstrapbandit
+    description: 'lnpay''s mission is to make it as easy as possible for developers to work with LN, ideal for you hackathon project'
+-
+    begins: 2:30 PM
+    ends: 3:00 PM
+    topic: heard you want to build shit on LN; is here to help.
+    type: workshop
+    speakers:
+      -
+        name: keagan mclelland
+        twitter: proofofkeags
+    description: what does it take to build with the LN directly? the big KM is
+      gonna route some knowledge right into your brain.
+-
+    begins: 3:00 PM
+    ends: 3:30 PM
+    topic: oauth is for scrubs
+    type: workshop
+    speakers:
+      -
+        name: buck perley
+        twitter: buckperley
+    description: buck's gonna give us the skinny on how to make applications
+      that use lsats for authentication in place of oauth. because friends
+      don't let friends not use sovereign d.i.d.s.
+-
+    begins: 3:30 PM
+    ends: 4:00 PM
+    topic: "Sapio Lecture II: Advanced Topics"
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: it's my party i can cry... err... present on sapio again if i
+      want to. in this section we'll flex some muscle and show you what sapio's
+      really capable of.
+-
+    begins: 4:00 PM
+    ends: 4:30 PM
+    topic: "Sapio Hands On: II: Advanced Topics"
+    type: workshop
+    speakers: 
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: it's not the tool, it's the hand of the craftsman. here we'll put
+      your knowledge to the test against some exercises and show how wise you
+      are.
+-
+    begins: 4:30 PM
+    ends: 5:00 PM
+    topic: getting pegged pos sidechains on btc
+    type: talk
+    speakers:
+      -
+        name: matthew bell
+        twitter: mappum
+    description: matt works on nomic which is a super cool sidechain. this talk
+      is going to teach you how nomic's sidechain anchoring bonds works, and
+      how you might use something similar to build great things.
+-
+    begins: 5:00 PM
+    ends: 5:05 PM
+    topic: Hackathon Kickoff
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: let's get this party started -- it's time to hack.
+-
+    begins: 5:05 PM
+    ends: 6:00 PM
+    topic: Hackathon TeamFinder
+    type: workshop
+    speakers:
+      -
+        name: sarah satoshi
+        twitter: satsohisarah
+    description: but maybe you don't have a team yet or could use a hand...
+      we'll lay out some ground rulez on how to swipe-right and swipe-left
+      politely on each other and find some other plebs to work with!
+-
+    begins: 6:00 PM
+    ends: 7:00 PM
+    topic: Dinner
+    type: meal
+    speakers: 
+    description: some of you probably will run away to go to your caves and bang out the code, that's ok. we'll keep dinner simple.
