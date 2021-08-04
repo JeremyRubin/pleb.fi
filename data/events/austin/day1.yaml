@@ -21,41 +21,7 @@
       ground rulez, and a 1 minute guided bitcoin meditation.
 -
     begins: 9:05 AM
-    ends: 9:25 AM
-    topic: open source bitcoin design
-    type: talk
-    speakers:
-      -
-        name: patricia robinson
-        twitter: 
-    description: learn about how design doesn't have to happen behind closed
-      doors with box-shadow-y pixel pushers, it can happen in the open!
--
-    begins: 9:25 AM
-    ends: 9:35 AM
-    topic: bitcoin movie trailer
-    type: talk
-    speakers:
-      - 
-        name: rob
-        twitter: bitcoiner_movie
-    description: rob is going to be -- with your consent to appear -- filming
-      during the event. he's working on a dope documentary, so we're gonna get
-      a sneak peek and hear more about it.
--
-    begins: 9:35 AM
-    ends: 10:05 AM
-    topic: "how to make your ux not a snoozefest\n"
-    type: talk
-    speakers:
-      -
-        name: rachel mersky
-        twitter: themersk
-    description: rachel mersky is the head of design at fold, and that tells
-      you probably all you need to know about how fun this talk is gonna be.
--
-    begins: 10:05 AM
-    ends: 10:35 AM
+    ends: 9:30 AM
     topic: b^4 altcoins
     type: fireside
     speakers:
@@ -70,8 +36,8 @@
 
       building back better for bitcoin by learning from altcoin innovations.
 -
-    begins: 10:35 AM
-    ends: 11:15 AM
+    begins: 9:35 AM
+    ends: 10:10 AM
     topic: "you are #ngmi"
     type: panel
     speakers:
@@ -86,9 +52,44 @@
         twitter: tarunchitra
     description: will you make it? prolly not. honestly, we're not sure what's
       going to happen here, but you're not gonna wanna miss it.
+
 -
-    begins: 11:15 AM
-    ends: 11:40 AM
+    begins: 10:15 AM
+    ends: 10:30 AM
+    topic: open source bitcoin design
+    type: talk
+    speakers:
+      -
+        name: patricia robinson
+        twitter: 
+    description: learn about how design doesn't have to happen behind closed
+      doors with box-shadow-y pixel pushers, it can happen in the open!
+-
+    begins: 10:35 AM
+    ends: 11:00 AM
+    topic: "how to make your ux not a snoozefest\n"
+    type: talk
+    speakers:
+      -
+        name: rachel mersky
+        twitter: themersk
+    description: rachel mersky is the head of design at fold, and that tells
+      you probably all you need to know about how fun this talk is gonna be.
+-
+    begins: 11:05 AM
+    ends: 11:30 AM
+    topic: "bips on the radar"
+    type: workshop
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: what's here and what's to come? we'll do a crash course into
+      things that could be coming soon (ctv, apo, csfs, cat, etc) and what the
+      plebs can do to make them happen.
+-
+    begins: 11:35 AM
+    ends: 12:00 PM
     topic: "Sapio Lecture I: Basics"
     type: talk
     speakers:
@@ -99,8 +100,17 @@
       down the motives behind sapio, ctv, and go over the basic workings of the
       platform.
 -
-    begins: 11:40 AM
-    ends: 12:10 PM
+    begins: 12:00 PM
+    ends: 12:30 PM
+    topic: lunch
+    type: meal
+    speakers: 
+      -
+        name: go with your gut
+    description: pb&j's anyone? (someone is prolly allergic) 
+-
+    begins: 12:30 PM
+    ends: 12:55 PM
     topic: "Sapio Hands On I: Basics"
     type: workshop
     speakers:
@@ -109,17 +119,8 @@
         twitter: jeremyrubin
     description: who dat, me again. this time we'll go hands on with some easy exercises to get you going with sapio.
 -
-    begins: 12:10 PM
-    ends: 1:00 PM
-    topic: lunch
-    type: meal
-    speakers: 
-      -
-        name: go with your gut
-    description: pb&j's anyone? (someone is prolly allergic)
--
     begins: 1:00 PM
-    ends: 1:30 PM
+    ends: 1:25 PM
     topic: "doing stuff with discreet log contracts\n\n"
     type: talk
     speakers: 
@@ -130,7 +131,7 @@
       DL on DLs and what you could build with them.
 -
     begins: 1:30 PM
-    ends: 2:00 PM
+    ends: 1:55 PM
     topic: liquidity bootstrapping
     type: talk
     speakers: 
@@ -141,7 +142,7 @@
       end users experience a liquid market?
 -
     begins: 2:00 PM
-    ends: 2:30 PM
+    ends: 2:10 PM
     topic: lnpay workshop
     type: workshop
     speakers: 
@@ -150,19 +151,17 @@
         twitter: bootstrapbandit
     description: 'lnpay''s mission is to make it as easy as possible for developers to work with LN, ideal for you hackathon project'
 -
-    begins: 2:30 PM
-    ends: 3:00 PM
-    topic: heard you want to build shit on LN; is here to help.
-    type: workshop
+    begins: 2:10 PM
+    ends: 2:20 PM
+    topic: what the heck is impervious ai anthony (we find out)
+    description: our flagship product is a bitcoin vpn but we're more than that. much, much more.
     speakers:
       -
-        name: keagan mclelland
-        twitter: proofofkeags
-    description: what does it take to build with the LN directly? the big KM is
-      gonna route some knowledge right into your brain.
+        name: anthony roning
+        twitter: cycryptr
 -
-    begins: 3:00 PM
-    ends: 3:30 PM
+    begins: 2:20 PM
+    ends: 2:30 PM
     topic: oauth is for scrubs
     type: workshop
     speakers:
@@ -172,9 +171,31 @@
     description: buck's gonna give us the skinny on how to make applications
       that use lsats for authentication in place of oauth. because friends
       don't let friends not use sovereign d.i.d.s.
+- 
+    begins: 2:30 PM
+    ends: 2:40 PM
+    topic: heard you want to build shit on LN; is here to help.
+    type: workshop
+    speakers:
+      -
+        name: keagan mclelland
+        twitter: proofofkeags
+    description: what does it take to build with the LN directly? the big KM is
+      gonna route some knowledge right into your brain.
 -
-    begins: 3:30 PM
-    ends: 4:00 PM
+    begins: 2:45 PM
+    ends: 3:45
+    topic: LN power hour
+    type: workshop
+    speakers:
+      -
+        name: keagan mclelland
+        twitter: proofofkeags
+    description: we just heard from 4 amazing LN related technologies -- fire
+      up your netbooks and get cracking on some exercises to get you going.
+-
+    begins: 3:50 PM
+    ends: 4:15 PM
     topic: "Sapio Lecture II: Advanced Topics"
     type: talk
     speakers:
@@ -185,8 +206,8 @@
       want to. in this section we'll flex some muscle and show you what sapio's
       really capable of.
 -
-    begins: 4:00 PM
-    ends: 4:30 PM
+    begins: 4:15 PM
+    ends: 4:35 PM
     topic: "Sapio Hands On: II: Advanced Topics"
     type: workshop
     speakers: 
@@ -197,8 +218,8 @@
       your knowledge to the test against some exercises and show how wise you
       are.
 -
-    begins: 4:30 PM
-    ends: 5:00 PM
+    begins: 4:40 PM
+    ends: 4:55 PM
     topic: getting pegged pos sidechains on btc
     type: talk
     speakers:
