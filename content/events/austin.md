@@ -26,8 +26,8 @@ description: pleb.fi. austin event, the biggest fun you can imagine.
 
 ### <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=i%20am%20a%20total%20pleb%20and%20i%20wanna%20go%20to&hashtags=bitcoin" data-size="large"> Tweet</a>
 
-# we are at capacity so...
-# join the [waitlist](https://forms.gle/FGnuG9r9UCU7hUx8A)
+# we still have some space so...
+# [get you a ticket right here you earned it](https://forms.gle/FGnuG9r9UCU7hUx8A)
 
 
 ****************** ****************** ******************
