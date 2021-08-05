@@ -56,13 +56,24 @@ hackathon starting after the workshops (please sleep tho) for plebs to
 build and showcase innovative ideas for the bitcoin ecosystem. don't
 have any ideas or friends? the workshops on saturday will surely inspire.
 
-there will be prizes! $5000 to the top team, and a bevy of category prizes too.
+there will be prizes! $5000+cowboy boots to the top team, and a bevy of category prizes too.
+
 no cheating allowed -- while it's OK if your submission is part of a larger
 project or ecosystem (e.g., you are a c-lightning Dev and you build something
 in c-lightning), the point is to try out new things and explore. there's no
 [firm rule](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it) here --
-we'll know cheating when we see it, and disqualify. when in doubt, ask an
-organizer if your project is in the spirit of the event.
+we'll know cheating when we see it, and disqualify at our discretion. when in
+doubt, ask an organizer if your project is in the spirit of the event.
+
+we love teams; but we also love to see lots of projects. to strike the right
+balance, teams may have up to 3 attendees.
+
+to make the event more inclusive, you can also have a 'remote only' +1
+teammate, just let us know in advance who they are. in the spirit of getting
+real remote participants, we encourage remotes to be e.g. 2 hours+ away from
+austin (if you see them during the event in person it's a disqualifier).
+interested in being a remote hacker? either ask your friends attending or [sign
+up](https://forms.gle/pLbozeJTXuz6kpTdA) to share your info with teams.
 
 ## why are you charging money? not cool.
 organizing events is hard. charging admission serves a few purposes: 1) we want
