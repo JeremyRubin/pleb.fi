@@ -1,6 +1,21 @@
-<ul>
-{{ range .Site.Data.events.austin.sponsors }}
+<style>
+.sponsors-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 
-<li> <a href="{{.link}}">{{.name}}</a></li>
-{{end}}
-</ul>
+}
+.sponsor {
+}
+
+
+</style>
+<div class="sponsors-box">
+    {{ range .Site.Data.events.austin.sponsors }}
+    <div class="sponsor">
+        <p>      <img src="{{.file}}"/></p>
+        <p>        <a href="{{.link}}"><h3>{{.name}}</h3></a></p>
+
+    </div>
+    {{end}}
+</div>
+<br>
