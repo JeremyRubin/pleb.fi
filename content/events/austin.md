@@ -2,6 +2,7 @@
 location: austin
 title: pleb.fi austin
 url: /austin/
+aliases: ["/Austin/"]
 description: pleb.fi. austin event, the biggest fun you can imagine.
 ---
 
