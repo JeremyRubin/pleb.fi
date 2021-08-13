@@ -16,9 +16,6 @@ description: pleb.fi. austin event, the biggest fun you can imagine.
 ## (there's a hackathon)
 ### <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=i%20am%20a%20total%20pleb%20and%20i%20wanna%20go%20to&hashtags=bitcoin" data-size="large"> Tweet</a>
 
-# we still have some space so...
-# [get you a ticket right here you earned it](https://forms.gle/FGnuG9r9UCU7hUx8A)
-
 -----------------
 ### our lovely event sponsors 
 
@@ -52,8 +49,24 @@ hackathon starting after the workshops (please sleep tho) for plebs to
 build and showcase innovative ideas for the bitcoin ecosystem. don't
 have any ideas or friends? the workshops on saturday will surely inspire.
 
-there will be prizes! $5000+cowboy boots to the top team, and a bevy of category prizes too.
+there will be prizes. a bevy of them (subject to change till the event starts).
 
+| prize | cash | other |
+| --------- | ----- | -----|
+| 1st | $5000 | fancy cowboy boots + limitd edition shirts |
+| 2nd | $1000 | limited edition shirts |
+| 3rd | $500  | limited edition shirts |
+| DeFi|$250|
+| Wallet|$250|
+| Sapio|$250|
+| New Layer 2s|$250|
+| Lightning|$250|
+| Self Sovereign|$250|
+| Mining|$250|
+| Design|$250|
+
+
+## basic rules
 no cheating allowed -- while it's OK if your submission is part of a larger
 project or ecosystem (e.g., you are a c-lightning Dev and you build something
 in c-lightning), the point is to try out new things and explore. there's no
@@ -70,6 +83,9 @@ real remote participants, we encourage remotes to be e.g. 2 hours+ away from
 austin (if you see them during the event in person it's a disqualifier).
 interested in being a remote hacker? either ask your friends attending or [sign
 up](https://forms.gle/pLbozeJTXuz6kpTdA) to share your info with teams.
+
+we'll adjust these rules as the event draws near; ask any clarifying questions
+in the telegram.
 
 ## why are you charging money? not cool.
 organizing events is hard. charging admission serves a few purposes: 1) we want
