@@ -1,7 +1,7 @@
 -
     begins: 8:00 AM
     ends: 9:00 AM
-    topic: breakfast
+    topic: breakfast tacos
     type: meal
     speakers:
       -
@@ -38,7 +38,7 @@
 -
     begins: 9:35 AM
     ends: 10:10 AM
-    topic: "you are #ngmi"
+    topic: BITCOIN IS TOO RESILIENT
     type: panel
     speakers:
       -
@@ -48,10 +48,11 @@
         name: allison reichel
         twitter: allisonreichel
       -
-        name: tarun chitra
-        twitter: tarunchitra
-    description: will you make it? prolly not. honestly, we're not sure what's
-      going to happen here, but you're not gonna wanna miss it.
+        name: john morrow
+        twitter: jmo_mx
+    description: bitcoin development has focused on resiliency -- that's cool.
+      but don't you feel a little fomo? those cryptokitties sure spark joy, right?
+      can we balance competing interests of novel use & security? should we?
 
 -
     begins: 10:15 AM
@@ -67,7 +68,7 @@
 -
     begins: 10:35 AM
     ends: 11:00 AM
-    topic: "how to make your ux not a snoozefest\n"
+    topic: "how to make your ux not a snoozefest"
     type: talk
     speakers:
       -
@@ -195,31 +196,7 @@
       up your netbooks and get cracking on some exercises to get you going.
 -
     begins: 3:50 PM
-    ends: 4:15 PM
-    topic: "Sapio Lecture II: Advanced Topics"
-    type: talk
-    speakers:
-      -
-        name: jeremy rubin
-        twitter: jeremyrubin
-    description: it's my party i can cry... err... present on sapio again if i
-      want to. in this section we'll flex some muscle and show you what sapio's
-      really capable of.
--
-    begins: 4:15 PM
-    ends: 4:35 PM
-    topic: "Sapio Hands On: II: Advanced Topics"
-    type: workshop
-    speakers: 
-      -
-        name: jeremy rubin
-        twitter: jeremyrubin
-    description: it's not the tool, it's the hand of the craftsman. here we'll put
-      your knowledge to the test against some exercises and show how wise you
-      are.
--
-    begins: 4:40 PM
-    ends: 4:55 PM
+    ends: 4:05 PM
     topic: getting pegged pos sidechains on btc
     type: talk
     speakers:
@@ -230,8 +207,42 @@
       is going to teach you how nomic's sidechain anchoring bonds works, and
       how you might use something similar to build great things.
 -
+    begins: 4:10 PM
+    ends: 4:10 + 1 nanosecond (4:25 PM)
+    topic: enter the beefverse
+    type: talk
+    speakers:
+      -
+        name: laolu osuntokun
+        twitter: roasbeef
+    description: stablechains  or web ln we'll find out
+-
+    begins: 4:30 PM
+    ends: 5:00 PM
+    topic: "Sapio Lecture II: Advanced Topics"
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: it's my party i can cry... err... present on sapio again if i
+      want to. in this section we'll flex some muscle and show you what sapio's
+      really capable of.
+-
     begins: 5:00 PM
-    ends: 5:05 PM
+    ends: 5:30 PM
+    topic: "Sapio Hands On: II: Advanced Topics"
+    type: workshop
+    speakers: 
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: it's not the tool, it's the hand of the craftsman. here we'll put
+      your knowledge to the test against some exercises and show how wise you
+      are.
+-
+    begins: 5:30 PM
+    ends: 5:35 PM
     topic: Hackathon Kickoff
     type: talk
     speakers:
@@ -240,8 +251,8 @@
         twitter: jeremyrubin
     description: let's get this party started -- it's time to hack.
 -
-    begins: 5:05 PM
-    ends: 6:00 PM
+    begins: 5:35 PM
+    ends: 6:15 PM
     topic: Hackathon TeamFinder
     type: workshop
     speakers:
@@ -252,9 +263,9 @@
       we'll lay out some ground rulez on how to swipe-right and swipe-left
       politely on each other and find some other plebs to work with!
 -
-    begins: 6:00 PM
+    begins: 6:15 PM
     ends: 7:00 PM
-    topic: Dinner
+    topic: pizza party
     type: meal
     speakers: 
     description: some of you probably will run away to go to your caves and bang out the code, that's ok. we'll keep dinner simple.

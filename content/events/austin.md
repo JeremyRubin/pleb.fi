@@ -110,3 +110,56 @@ _we may adjust this as we near the event..._
 
 interested to sponsor the event or help organize? 
 <a href="https://twitter.com/messages/compose?recipient_id=379400685" data-screen-name="@jeremyrubin">reach out!</a>
+
+
+
+
+
+
+# Pre Event Resources:
+Prep Reading: Looking to make the most of pleb.fi? Here's some recommended reading and software setup from some of our speakers...
+
+## learn a little rust and get set up
+
+https://www.rust-lang.org/learn as Sapio is in Rust -- a little bit / env setup will go a long way for following along!
+### vscode
+
+if you have an editor you like for rust already, ignore. in my experience, vscode is the easiest out of the box quick setup.
+
+
+## sapio
+Speaking of.. Sapio setup is here
+https://learn.sapio-lang.org/ch01-01-installation.html and GUI is here
+https://github.com/sapio-lang/sapio-studio.
+
+Still doing a lot of changes before the workshop, but it's usable now. Make sure your environment is set up before you come so you have no problem using it.
+
+## get bitcoind setup
+Have bitcoin core compiled locally and ready to run in regtest https://github.com/bitcoin/bitcoin. you don't want build issues slowing you down, nor (if you want mainnet) do you want to have to sync on wifi with 100 other people.
+
+
+
+
+
+## LSATS
+LSATs, or Lightning Service Authentication Tokens, are a new way to do
+pseudonymous authentication using the lightning network, leveraging the native
+`402: Payment required` http error code, and macaroons. 
+
+Learn more about LSATs and Macaroons:
+- https://testnet-lsat-playground.vercel.app/ 
+- https://medium.com/tierion/lsats-pseudonymous-authentication-using-bitcoin-lightning-payments-459e209b4b36 
+- https://lsat.tech/
+- https://docs.google.com/presentation/d/1QSm8tQs35-ZGf7a7a2pvFlSduH3mzvMgQaf-06Jjaow/edit#slide=id.p
+- https://research.google/pubs/pub41892/
+
+Libraries and code:
+- https://github.com/lightninglabs/aperture
+- https://github.com/Tierion/lsat-js
+- https://github.com/tierion/boltwall
+
+## read up on impervious
+https://docs.impervious.ai
+
+## read up on nomic's sidechain design
+https://gist.github.com/mappum/da11e37f4e90891642a52621594d03f6

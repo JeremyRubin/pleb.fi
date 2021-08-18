@@ -2,12 +2,13 @@
     begins: 9:00 AM
     ends: 10:00 AM
     type: meal
-    topic: breakfast
+    topic: trad breakfast
     speakers:
       -
         name: tummy
     description: you've been up all night hacking, and now your stomach feels
-      like a (const void*). come and fill up the tank.
+      like a (const void*). come and fill up the tank with a classic all american
+      breakfast.
 -
     begins: 10:00 AM
     ends: 10:30 AM
@@ -20,7 +21,7 @@
     begins: 12:00 PM
     ends: 1:00 PM
     type: meal
-    topic: Lunch
+    topic: muncho some luncho
     speakers: 
       -
         name: APpEtite
@@ -76,8 +77,8 @@
     begins: 7:00 PM
     ends: 10:00 PM
     type: meal
-    topic: pizza + beer
+    topic: wats wrong babe u barely touched your bbq
     description: one last meal together. celebrate, drown your sorrows,
-      whatever. we'll hang out eat our fill, and then go back to our normie
-      lives afterwards.
+      whatever. we'll hang out eat our fill of texan ambrosia (bbq), and then go
+      back to our normie lives afterwards.
 
