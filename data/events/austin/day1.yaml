@@ -218,6 +218,8 @@
     description: matt works on nomic which is a super cool sidechain. this talk
       is going to teach you how nomic's sidechain anchoring bonds works, and
       how you might use something similar to build great things.
+    links:
+      - /slides/2021/austin/nomic_pleb.pdf
 -
     begins: 4:10 PM
     ends: 4:10 + 1 nanosecond (4:25 PM)
