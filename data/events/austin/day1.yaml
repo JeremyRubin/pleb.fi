@@ -221,13 +221,13 @@
 -
     begins: 4:10 PM
     ends: 4:10 + 1 nanosecond (4:25 PM)
-    topic: enter the beefverse
+    topic: li-fi greatest thing since wi-fi
     type: talk
     speakers:
       -
         name: laolu osuntokun
         twitter: roasbeef
-    description: stablechains  or web ln we'll find out
+    description: everything you don't know yet about the future of lightning liquidity market design
 -
     begins: 4:30 PM
     ends: 5:00 PM
