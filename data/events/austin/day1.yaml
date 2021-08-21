@@ -94,6 +94,7 @@
       things that could be coming soon (ctv, apo, csfs, cat, etc) and what the
       plebs can do to make them happen.
     links:
+      - https://github.com/JeremyRubin/utxos.org/pull/4
       - https://rubin.io/blog/2021/07/02/covenants/
       - https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki
       - https://utxos.org
