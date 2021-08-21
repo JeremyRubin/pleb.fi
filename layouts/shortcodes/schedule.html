@@ -32,7 +32,15 @@ table, th, td {
                 {{ end }}</p>
                 {{end}}
             </td>
-            <td> {{$session.description}}</td>
+            <td> {{$session.description}}
+                {{ if $session.links }}
+                <ul>
+                    {{range $link := $session.links}}
+                    <li>                    <a href="{{$link}}"> {{$link}} </a></li>
+                    {{end}}
+                </ul>
+                {{end}}
+                </td>
             <td>{{$session.begins}}</td>
             <td> {{$session.ends}}</td>
         </tr>

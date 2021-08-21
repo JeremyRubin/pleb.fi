@@ -33,8 +33,9 @@
         twitter: least_nathan
     description: shitcoiners learn from experience. bitcoiners learn from the
       experience of others. -otto von ₿ismarck
-
       building back better for bitcoin by learning from altcoin innovations.
+    links:
+        - https://docs.google.com/presentation/d/1R-qYMNSqwY1MGNeayRwHmhyVD48AiS9VPdE9putL2Vc/edit#slide=id.p
 -
     begins: 9:35 AM
     ends: 10:10 AM
@@ -92,6 +93,11 @@
     description: what's here and what's to come? we'll do a crash course into
       things that could be coming soon (ctv, apo, csfs, cat, etc) and what the
       plebs can do to make them happen.
+    links:
+      - https://rubin.io/blog/2021/07/02/covenants/
+      - https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki
+      - https://utxos.org
+      - https://rubin.io/bitcoin/2021/07/09/bip-118-sighash-chart/
 -
     begins: 11:35 AM
     ends: 12:00 PM
@@ -134,6 +140,8 @@
         twitter: benthecarman
     description: sneaky sneaky contract don't peeky -- ben is gonna give us the
       DL on DLs and what you could build with them.
+    links:
+      - https://docs.google.com/presentation/d/1grRwd9rb9KH4YLN4cfS3oY_fPqAT3D6NrndjQ2onWJI/edit#slide=id.p
 -
     begins: 1:30 PM
     ends: 1:55 PM
