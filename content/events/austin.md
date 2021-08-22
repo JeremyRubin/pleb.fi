@@ -119,6 +119,9 @@ interested to sponsor the event or help organize?
 # Pre Event Resources:
 Prep Reading: Looking to make the most of pleb.fi? Here's some recommended reading and software setup from some of our speakers...
 
+## Hackathon Project Ideas
+[List of project ideas](https://docs.google.com/document/d/1CCQEQNhmA2oQfYtL5MAqn4w-rz1KJTeTxodCdZ-aAUE/edit?usp=sharing)
+
 ## learn a little rust and get set up
 
 https://www.rust-lang.org/learn as Sapio is in Rust -- a little bit / env setup will go a long way for following along!
