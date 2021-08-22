@@ -40,30 +40,42 @@
     description: "scoop: pleb.fi reports that ice cream is a good way to unwind and reset while you think about how to present yourself"
 -
     begins: 5:00 PM
-    ends: 6:00 PM
+    ends: 5:30 PM
+    type: panel
+    topic: "q&a: taking your project to the next stage"
+    speakers:
+      - 
+        name: christopher calicott
+        twitter: mecee
+      - 
+        name: oleg mikhalsky
+        twitter: olegmikh1
+      - 
+        name: joseph kelly
+        twitter: josephkelly
+    description: vc funding, locations, and hiring, oh my! we're going to have
+      some subject matter experts expound on how you can take what you've been
+      working on to the next level.
+-
+    begins: 5:30 PM
+    ends: 6:30 PM
     type: talk
     topic: presentations / demos
     speakers:
       - name: every pleb
     description: step into the limelight and show us what you made. we are so very excited to see it.
 -
-    begins: 6:00 PM
-    ends: 6:30 PM
-    type: panel
-    topic: "q&a: taking your project to the next stage"
-    speakers:
-      - 
-        name: christopher calicott
-
-        twitter: mecee
-      - 
-        name: oleg mikhalsky
-        twitter: olegmikh1
-    description: vc funding, locations, and hiring, oh my! we're going to have
-      some subject matter experts expound on how you can take what you've been
-      working on to the next level.
--
     begins: 6:30 PM
+    ends: 6:45 PM
+    type: talk
+    topic: judge deliberation
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: que the jeopardy music
+-
+    begins: 6:45 PM
     ends: 7:00 PM
     type: talk
     topic: awards
