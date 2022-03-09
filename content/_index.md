@@ -3,8 +3,8 @@ title: pleb.fi
 description: the best conference for bitcoin ever.
 ---
 <div class="flash">
-<a href="/austin">
-<h1>join us in austin august 21st-22nd</h1>
+<a href="/miami2022">
+<h1>join us in miami april 2022</h1>
 </a>
 </div>
 
@@ -18,7 +18,8 @@ description: the best conference for bitcoin ever.
 ## think outside the box
 
 ### upcoming events 
-1. [pleb.fi/austin](/austin)
+1. [pleb.fi/miami2022](/miami2022)
 ### past events 
 1. [pleb.fi/miami](/miami)
+1. [pleb.fi/austin](/austin)
 
