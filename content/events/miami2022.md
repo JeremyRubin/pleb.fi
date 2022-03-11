@@ -16,7 +16,7 @@ description: pleb.fi. miami 2022 event, bring a change of socks.
 <h3>BIGGER</h3>
 <h2>but most importantly...</h2>
 <h1> PLEBBER </h1>
-<h5> april TBA 2022 in miami, not the 6-9th tho</h5>
+<h5> april 4-5th* 2022 in miami</h5>
 <h1> its sapioszn </h1>
 <h1> get in loser we're buidling </h1>
 <img src="/pleb22.jpg" width="500px" />
@@ -45,3 +45,6 @@ TBA
 ### brought to you by:
 
 US
+
+
+\* im pretty sure at least doing my best here folks.
