@@ -1,0 +1,67 @@
+-
+    begins: 9:00 AM
+    ends: 10:00 AM
+    type: meal
+    topic: breakfast of champagnes
+    speakers:
+      -
+        name: andre
+    description: im not sure mimosas are a good idea, but i'll be having one.
+      and maybe some solids.
+-
+    begins: 10:00 AM
+    ends: 10:30 AM
+    type: deadline
+    topic: team registration deadline
+    description: we need ur hacker id to ensure hackathon integrity.
+-
+    begins: 12:00 PM
+    ends: 1:00 PM
+    type: meal
+    topic: energy goo
+    speakers: 
+      -
+        name: the power you need
+    description: we know bitcoiners like artificial foods, so we'll have the
+      energy goo you deserve (non goo available on request).
+-
+    begins: 2:00 PM
+    ends: 2:15 PM
+    type: deadline
+    topic: Submissions Due
+    description: all good things must come to an end.
+-
+    begins: 2:15 PM
+    ends: 3:00 PM
+    type: meal
+    topic: ur not urslef eat a snickers™
+    description: u need some brain food to bring your a game for the judges.
+-
+    begins: 3:00 PM
+    ends: 4:30 PM
+    type: talk
+    topic: presentations / demos
+    speakers:
+      - name:  you
+    description: make us swipe right on your project
+-
+    begins: 4:30 PM
+    ends: 5:15 PM
+    type: talk
+    topic: judge deliberation
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: no eavesdropping
+-
+    begins: 5:15 PM
+    ends: 5:30 PM
+    type: talk
+    topic: awards
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: no participation trophies
+

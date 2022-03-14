@@ -47,7 +47,8 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - Sponsors can get a gratis ticket to the event or two, but keep it in check.
   Sponsors should not be there to promote, they should participate in the event
   normally.
-- Do not give sponsors a list of attendee emails. Seriously >:(.
+- Do not give sponsors a list of attendee emails, except those who opt-in to
+  sharing. Seriously >:(.
 
 # Food
 
@@ -61,7 +62,9 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 
 # Tickets
 
-- Cost per day should not exceed $50
+- Cost per day should not be excessive; aim for breakeven all said and done,
+  excesses to be used charitably at discretion of organizers.
+- Encouraged $20/day minimum to ensure attendance.
 - OK to separately ticket e.g. Hackathon & Speakers
 - It's best to gate admissions through applications asking:
     - nym / email
@@ -116,9 +119,13 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
     - Reach out to speakers you want with concepts of what they could talk
       about that fits your narrative.
       - _Especially reach out to people outside of the Bitcoin community (e.g.,
-        Eth, ZCash, NFTs, etc) to grace the potluck and teach people things they
-        otherwise might not get exposed to. you should have at least one or two
-        folks like this on the agenda!_
+        Eth, ZCash, NFTs, etc) to grace the potluck and teach people things
+        they otherwise might not get exposed to. you should have at least one
+        or two folks like this on the agenda! Such a participant hould not be
+        pitching a particular project or investment, but about learnings that
+        are outside the 'plebs zone' of familiarity._
+
+
 ## M.C. Duties
 - Have an M.C. for the event (ideally that's their only job that day)
 - They need to keep things on track time wise, manage questions, and herd
@@ -126,8 +133,12 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - Be familiar with speakers talks to give intros and stuff
 ## Speakers
 ### Panels
-- Panels should have 1 Moderator and 3 to 4 guests
+- Panels should have 1 Moderator and 3 Panelists, 4 maximum if absolutely
+  necessary (better to split the panels).
 - Rule of thumb: 10 minutes per panel guest
+- No "Mini Talk Per Panelist" -- Panels should be dynamic and focus on
+  engagement between panelists.
+- Leave time for Q&A.
 - Pre conference chat!
 ### Fireside Chats
 - Two people
@@ -136,12 +147,21 @@ think, "pleb.fi is to pleb.fi/potluck as TED is TEDx".
 - Pre conference chat!
 ### Workshops
 - Should come later in the day
-- If there is a lot of 'similar content' run them as a 10 minute per workshop
-  'pitch' and then 1 hour breakout groups.
 - strongly advise that all workshops can run in a Docker Container
 - Have participants download the material beforehand, or run a local FTP server
   or something for file sharing. Otherwise this will crash your network and no one
   can follow along.
+#### Speed Round Workshops
+- If there is a lot of 'similar content' workshops (e.g. cool new API for
+  Lightning Network) run them as a 10 minute per workshop 'pitch' and then 1
+  hour breakout groups.
+- Breakout groups focus on engagement with instructors and hands on --> try to
+  make sure that there are enough workshops:participants to prevent
+  overcrowding.
+- Dockerized format a must.
+- Small Sat bounties for completion a great idea; cap it at ~$100 so as not to
+  compete on who pays for eyeballs (ok for organizers to reimburse)
+
 
 
 # Tech

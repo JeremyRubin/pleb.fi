@@ -1,0 +1,33 @@
+- name: jeremy rubin
+  topic: is gonna tell us all about <a href="https://learn.sapio-lang.org">sapio</a>.
+  twitter: jeremyrubin
+- name: ryan gentry
+  topic: is gonna teach us about mev and coin pools.
+  twitter: ryanthegentry
+- name: rachel mersky
+  topic: how not to make your ux not a snoozefest
+  twitter: themersk
+- name: parker white
+  topic: the man the mystery the legend parker white
+  untwitter: <iframe class="twitter-timeline" width="400" height="200" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- name: ben carman
+  topic: ben does stuff with discreet log contracts
+  twitter: benthecarman
+- name:      anthony ronning
+  topic: what the heck is impervious ai anthony (we find out)
+  twitter: cycryptr
+- name:    christopher calicott
+  topic: "austin vc: in this town, you gotta go thru him"
+  twitter: mecee
+- name:      buck perley
+  topic: oauth is for scrubs; lightning auth future
+  twitter: BuckPerley
+- name: matthew bell
+  topic: getting pegged pos sidechains on btc 
+  twitter: mappum
+- name: keagan mclelland
+  topic: heard you want to build shit on LN; is here to help. 
+  twitter: ProofOfKeags
+- name: udi wertheimer
+  topic: being poor and having fun staying that way
+  twitter: udiWertheimer

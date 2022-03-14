@@ -1,0 +1,21 @@
+<style>
+.sponsors-box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.sponsor {
+}
+
+
+</style>
+<div class="sponsors-box">
+    {{ range .Site.Data.events.miami2022.sponsors }}
+    <div class="sponsor">
+        <p>      <img src="{{.file}}"/></p>
+        <p>        <a href="{{.link}}"><h3>{{.name}}</h3></a></p>
+
+    </div>
+    {{end}}
+</div>
+<br>
