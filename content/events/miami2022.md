@@ -11,7 +11,7 @@ description: pleb.fi. miami 2022 event, bring a change of socks.
 # [/miami2022](/miami2022)
 
 
-##### 🎶 the boys are back in town🎶
+##### 🎶 the plebs are back in town🎶
 #### badder
 ## BIGGER
 ### but most importantly...
