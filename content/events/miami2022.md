@@ -89,7 +89,7 @@ balance, teams may have up to 3 attendees.
 to make the event more inclusive, you can also have a 'remote only' +1
 teammate, just let us know in advance who they are. in the spirit of getting
 real remote participants, we encourage remotes to be e.g. 2 hours+ away from
-austin (if you see them during the event in person it's a disqualifier).
+miami (if you see them during the event in person it's a disqualifier).
 interested in being a remote hacker? either ask your friends attending or [sign
 up](https://docs.google.com/forms/d/e/1FAIpQLSciVZi5Ots5z5BXdPTxxd-ygPcFf5YpQWTDgglIi-_Y0hLOvw/viewform) to share your info with teams.
 
