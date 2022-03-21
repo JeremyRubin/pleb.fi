@@ -36,6 +36,8 @@ also food. some kind of party after. fun.
 
 # [APPLY TO ATTEND](https://docs.google.com/forms/d/e/1FAIpQLScw_WRhg3SfdRcPQKDjnxclpj8hogIoZRwmLScR6R5hrpCQEQ/viewform)
 
+_note: we have a limited number of scholarships available to support women (with flights/hotels/childcare expense/etc) to be able to attend pleb.fi with thanks to our sponsors. if this applies to you, please fill out the form above! not a woman, but still need some help? let us know in the form and we'll do what we can!_
+
 # with gratitude to...
 {{< miami2022/sponsors >}}
 
