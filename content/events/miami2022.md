@@ -89,7 +89,7 @@ teammate, just let us know in advance who they are. in the spirit of getting
 real remote participants, we encourage remotes to be e.g. 2 hours+ away from
 austin (if you see them during the event in person it's a disqualifier).
 interested in being a remote hacker? either ask your friends attending or [sign
-up](https://forms.gle/pLbozeJTXuz6kpTdA) to share your info with teams.
+up](https://docs.google.com/forms/d/e/1FAIpQLSciVZi5Ots5z5BXdPTxxd-ygPcFf5YpQWTDgglIi-_Y0hLOvw/viewform) to share your info with teams.
 
 we'll adjust these rules as the event draws near; ask any clarifying questions
 in the telegram.
