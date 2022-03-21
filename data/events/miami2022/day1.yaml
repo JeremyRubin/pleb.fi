@@ -99,21 +99,26 @@
 -
     begins: 3:30 PM
     ends: 4:00 PM
-    topic: you wont believe this
+    topic: a torrid affair
     type: talk
     speakers:
       -
-        name: tbd
-    description: and it is not a talk about seed oils impact on the HUMAN body!
+        name: alekos filini
+        twitter: afilini
+    description: alekos is going to give us the skinny on how to use libtor /
+      tor hidden services to architect and expose your applications securely
+      and portably. believe it or not, it's actually easier than setting up dns
+      and cooler.
 -
     begins: 4:00 PM
     ends: 4:30 PM
-    topic: something
+    topic: TDB tdb
     type: talk
     speakers:
       -
-        name: tbd
-    description: or nothing
+        name: rebecca corcillo
+        twitter: rebeccacorcillo
+    description: calvinists do not believe in this talk
 -
     begins: 4:30 PM
     ends: 5:00 PM
