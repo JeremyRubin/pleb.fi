@@ -41,6 +41,16 @@ _note: we have a limited number of scholarships available to support women (with
 # with gratitude to...
 {{< miami2022/sponsors >}}
 
+# convenient hotels to stay at
+
+The hotels near miami springs slightly north of the airport will be pretty
+convient. as would the Holiday Inn Miami West - Airport Area. but really you
+can stay wherever. miami isn't too big. brickell is nice if you dont mind like
+a 20 min uber. im staying in an airbnb.  but you probably dont care about that. 
+
+the actually event venue we're keeping a bit hush for opsec reasons, if you
+really gotta know DM me but we'll let you know sooner.
+
 
 ### what the fuck is happening?
 _to be tweaked as we confirm more content_
