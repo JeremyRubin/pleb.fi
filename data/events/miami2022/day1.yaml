@@ -122,12 +122,17 @@
 -
     begins: 4:30 PM
     ends: 5:00 PM
-    topic: something else
+    topic: the gang tries to fund a bip-119 security audit
     type: talk
     speakers:
       -
-        name: tbd
-    description: if it is the same, full refund.
+        name: ariel deschapell
+        twitter: NotASithLord
+    description: there is a bug bounty program for ctv that was formed over a
+      series of tweets over a couple days that has about 5.5 BTC in it, but is
+      formed as a loose group of people, basically a DAO. ariel is going to describe
+      the process of creating an managing a bitcoin development non-profit dao and how
+      this structure might just save us all.
 -
     begins: 5:00 PM
     ends: 5:30 PM

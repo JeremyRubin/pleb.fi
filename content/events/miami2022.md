@@ -83,6 +83,8 @@ there will be prizes. a bevy of them (subject to change till the event starts).
 | 1st | TBA | TBA |
 | 2nd | TBA | TBA |
 | 3rd | TBA  | TBA |
+| [bip-119 security bounties](https://docs.google.com/document/d/1pN6YzQ6HlR8t_-ZZoEdTegt88w6gJzCkcA_a4IXpKAo/edit) | up to 5.5 BTC | TBA |
+
 
 
 ## basic rules
