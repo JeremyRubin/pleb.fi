@@ -51,6 +51,22 @@ a 20 min uber. im staying in an airbnb.  but you probably dont care about that.
 the actually event venue we're keeping a bit hush for opsec reasons, if you
 really gotta know DM me but we'll let you know sooner.
 
+# prepping for pleb.fi / gimme homework?
+
+the best thing you can do is to prep by learning rust.
+
+you dont gotta be an expert, but a little bit goes a long ways to making you
+able to follow along with all of the content.
+
+[des](https://twitter.com/desiverse0/status/1506446065108590593) is organizing
+some noobschool content / office hours leading up to the event that you're
+encouraged to join.
+
+[https://www.rust-lang.org/learn](rust website) has some really great
+exercises.
+
+see also the resources & readings section at the end of this site.
+
 
 ### what the fuck is happening?
 _to be tweaked as we confirm more content_
@@ -115,4 +131,21 @@ in the telegram.
 
 ### we <3 plebs,
 {{< miami2022/organizers   >}}
+
+
+
+
+
+
+# RESOURCES
+To add resources, please open a PR and ping jeremy [on the
+github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2022.md).
+
+## Learn Rust
+
+1. [https://www.rust-lang.org/learn](rust tutorial)
+
+## Sapio
+
+1. Sapio Book [here](https://learn.sapio-lang.org)
 
