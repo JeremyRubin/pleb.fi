@@ -24,9 +24,17 @@
 -
     begins: 9:30 AM
     ends: 10:00 AM
-    topic: intrigue panel B
+    topic: will the real plebs please stand up?
     speakers:
-    description: quasi icebreakers to get the day going
+      - name: dulce villarreal
+        twitter: dulce_vird
+      - name: bluemoon
+        twitter: moon33_blue
+    description: description: we call ourselves plebs as a reminder that
+      bitcoin is here to serve the outsiders. but who are the real outsiders to
+      the financial system? who may not have ever had a credit card or a bank
+      account? how do we build for them? what tools will help bitcoin reach
+      them?
 -
     begins: 10:00 AM
     ends: 10:30 AM
