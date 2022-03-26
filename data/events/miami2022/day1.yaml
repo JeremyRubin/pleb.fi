@@ -98,16 +98,21 @@
     description: sapio is ready for prime time button up your suspenders it is time for SAPIOSZN
 -
     begins: 3:00 PM
-    ends: 3:30 PM
-    topic: protecc pleb w vault
-    type: talk
+    ends: 3:45 PM
+    topic: "teams that <> together <> together"
+    type: workshop
     speakers:
       -
-        name: tbd
-    description: how protecc coin. coin in danger. pleb no like coin in danger. wat do? 
+        name: christopher calicott
+        twitter: mecee
+    description: Hackathon TeamFinder...  but maybe you don't have a team yet
+      or could use a hand...  chris is going to lay out ground rulez on how to
+      swipe-right and swipe-left politely on each other and find some other
+      plebs to work with, as well as what sorts of ingredients go into making
+      a team winners in the long haul.
 -
-    begins: 3:30 PM
-    ends: 4:00 PM
+    begins: 3:45 PM
+    ends: 4:15 PM
     topic: a torrid affair
     type: talk
     speakers:
@@ -119,8 +124,8 @@
       and portably. believe it or not, it's actually easier than setting up dns
       and cooler.
 -
-    begins: 4:00 PM
-    ends: 4:30 PM
+    begins: 4:15 PM
+    ends: 4:45 PM
     topic: TDB tdb
     type: talk
     speakers:
@@ -129,8 +134,8 @@
         twitter: rebeccacorcillo
     description: calvinists do not believe in this talk
 -
-    begins: 4:30 PM
-    ends: 5:00 PM
+    begins: 4:45 PM
+    ends: 5:15 PM
     topic: the gang tries to fund a bip-119 security audit
     type: talk
     speakers:
@@ -143,8 +148,8 @@
       the process of creating an managing a bitcoin development non-profit dao and how
       this structure might just save us all.
 -
-    begins: 5:00 PM
-    ends: 5:30 PM
+    begins: 5:15 PM
+    ends: 5:45 PM
     topic: more new covenants
     type: talk
     speakers:
@@ -153,24 +158,14 @@
         twitter: "_arshbot"
     description: someones gonna make a new covenant proposal during this hackathon... may as well see what is out there
 -
-    begins: 5:30 PM
-    ends: 5:35 PM
-    topic: Hackathon Kickoff
+    begins: 5:45 PM
+    ends: 6:15 PM
+    topic: protecc pleb w vault
     type: talk
     speakers:
       -
-        name: jeremy rubin
-        twitter: jeremyrubin
-    description: let's get this party started -- it's time to hack.
--
-    begins: 5:35 PM
-    ends: 6:15 PM
-    topic: Hackathon TeamFinder
-    type: workshop
-    speakers:
-    description: but maybe you don't have a team yet or could use a hand...
-      we'll lay out some ground rulez on how to swipe-right and swipe-left
-      politely on each other and find some other plebs to work with!
+        name: tbd
+    description: how protecc coin. coin in danger. pleb no like coin in danger. wat do? 
 -
     begins: 6:15 PM
     ends: 7:00 PM
@@ -178,6 +173,16 @@
     type: meal
     speakers: 
     description: we dont need a party the next 24 hours is gonna be hell, plus miami etc, let's chill out and relax a little before crunchtime.
+-
+    begins: 7:00 PM
+    ends: 7:05 PM
+    topic: Hackathon Kickoff
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: let's get this party started -- it's time to hack.
 -
   begins: 11:30 PM
   ends: 11:59 AM
