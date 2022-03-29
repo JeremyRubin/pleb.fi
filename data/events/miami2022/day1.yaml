@@ -9,18 +9,22 @@
         twitter: 
     description: be here or live a life full of regrets rueful for the moments you missed
 -
-    begins: 9:00 AM
-    ends: 9:05 AM
+    begins: 8:55 AM
+    ends: 9:00 AM
     topic: kickoff & morning meditation
     type: talk
     speakers:
     description: get your head in the right place for a great day
 -
-    begins: 9:05 AM
+    begins: 9:00 AM
     ends: 9:30 AM
-    topic: intrigue panel A
+    topic: the udi hour
+    type: keynote address
     speakers:
-    description: quasi icebreakers to get the day going
+      -
+        name: udiverse
+        twitter: udiWertheimer
+    description: when he says it is an hour but it's more like 30 minutes.
 -
     begins: 9:30 AM
     ends: 10:00 AM
