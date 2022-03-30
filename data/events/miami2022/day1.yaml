@@ -18,13 +18,22 @@
 -
     begins: 9:00 AM
     ends: 9:30 AM
-    topic: the udi hour
-    type: keynote address
+    topic: Udiverse vs President of Shitcoin Island
+    type: debate
     speakers:
       -
         name: udiverse
         twitter: udiWertheimer
-    description: when he says it is an hour but it's more like 30 minutes.
+      -
+        name: shinobi (President of Shitcoin Island)
+        twitter: brian_trollz
+    description: these two twitter legends are coming together for the first
+      time ever IRL to debate (or will it be more of a friendly chat?) about
+      the future of bitcoin. udiverse is well known for his laissez faire
+      attitude when it comes to crypto -- if the people want to eat cake, let
+      them eat cake. shinobi, on the other hand, is known for his 10000 RPM
+      twitter tirades promotion bitcoin purity. what will happen when we put
+      them 1v1? your guess is as good as mine.
 -
     begins: 9:30 AM
     ends: 10:00 AM
