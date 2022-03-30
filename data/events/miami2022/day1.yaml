@@ -197,6 +197,23 @@
         twitter: jeremyrubin
     description: let's get this party started -- it's time to hack.
 -
+    begins: 9:00 PM
+    ends: 10:00 PM
+    topic: dont make your project doodoo for doodooheads
+    type: talk
+    speakers:
+      -
+        name: bentricia
+        twitter: bentricia21
+      -
+        name: stephen delorme
+        twitter: StephenDeLorme
+    description: the choice is yours. but if you want your project to not look
+      like a steaming pileah, bentricia and s-d-l are giving you hot tips
+      to make your project polished on the insire and out. more than superficial
+      beauty, this brekadown is going to help you think about user experience and
+      not just pixel pushing.
+-
   begins: 11:30 PM
   ends: 11:59 AM
   topic: venue closeup for evening
