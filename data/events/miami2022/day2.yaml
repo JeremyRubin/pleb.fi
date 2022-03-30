@@ -15,6 +15,24 @@
     topic: team registration deadline
     description: we need ur hacker id to ensure hackathon integrity.
 -
+    begins: 10:00 AM
+    ends: 11:00 AM
+    topic: the design crit
+    type: talk
+    speakers:
+      -
+        name: stephen delorme
+        twitter: StephenDeLorme
+      -
+        name: bentricia
+        twitter: bentricia21
+    description: let's see if you learned anything last night. our resident
+      bitcoin design aces are gonna hit you up with some last minute design
+      crits (as a group, 5-10 minutes per team) to help you get your project to
+      shine when you demo it -- focus will be on things you can get done in the
+      next couple hours to make that 60% done project feel more like an 80%
+      done.
+-
     begins: 12:00 PM
     ends: 1:00 PM
     type: meal
