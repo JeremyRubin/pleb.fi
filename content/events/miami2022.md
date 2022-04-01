@@ -92,15 +92,16 @@ sprint starting after the workshops (please sleep tho) for plebs to build and
 showcase innovative ideas for the bitcoin ecosystem. don't have any ideas or
 friends? the workshops will surely inspire.
 
-there will be prizes. a bevy of them (subject to change till the event starts).
+there will be prizes. a bevy of them (subject to change till the event starts
+-- we'll likely add some category prizes & nudge the main prizes if we have the
+budget to).
 
 | prize | cash | other |
 | --------- | ----- | -----|
-| 1st | TBA | TBA |
-| 2nd | TBA | TBA |
-| 3rd | TBA  | TBA |
+| 1st | $5000 | TBA |
+| 2nd | $1000 | TBA |
+| 3rd | $500  | TBA |
 | [bip-119 security bounties](https://docs.google.com/document/d/1pN6YzQ6HlR8t_-ZZoEdTegt88w6gJzCkcA_a4IXpKAo/edit) | up to 5.5 BTC | TBA |
-
 
 
 ## basic rules
