@@ -46,9 +46,6 @@
       - 
         name: dulce villarreal
         twitter: "dulce_vird"
-      -
-        name: bluemoon
-        twitter: "moon33_blue"
 -
     begins: 10:00 AM
     ends: 10:30 AM
@@ -111,18 +108,26 @@
     description: sapio is ready for prime time button up your suspenders it is time for SAPIOSZN
 -
     begins: 3:00 PM
-    ends: 3:45 PM
+    ends: 3:20 PM
     topic: "teams that <> together <> together"
     type: workshop
     speakers:
       -
         name: christopher calicott
         twitter: mecee
-    description: Hackathon TeamFinder...  but maybe you don't have a team yet
-      or could use a hand...  christopher is going to lay out ground rulez on how to
+    description: christopher is going to lay out ground rulez on how to
       swipe-right and swipe-left politely on each other and find some other
       plebs to work with, as well as what sorts of ingredients go into making
       a team winners in the long haul.
+-
+    begins: 3:20 PM
+    ends: 3:45 PM
+    topic: "hackathon teamfinder"
+    type: workshop
+    speakers:
+    description: Hackathon TeamFinder...  maybe you don't have a team yet
+      or could use a hand... we'll do some sort of garish annoying icebreaker
+      thing but at least you'll get to meet some new people you wouldn't have otherwise.
 -
     begins: 3:45 PM
     ends: 4:15 PM
