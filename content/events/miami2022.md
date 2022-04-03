@@ -32,11 +32,9 @@ pleb means.
 
 also food. some kind of party after. fun.
 
+# APPLICATIONS: CLOSED
 
-
-# [APPLY TO ATTEND](https://docs.google.com/forms/d/e/1FAIpQLScw_WRhg3SfdRcPQKDjnxclpj8hogIoZRwmLScR6R5hrpCQEQ/viewform)
-
-_note: we have a limited number of scholarships available to support women (with flights/hotels/childcare expense/etc) to be able to attend pleb.fi with thanks to our sponsors. if this applies to you, please fill out the form above! not a woman, but still need some help? let us know in the form and we'll do what we can!_
+_note: we had a limited number of scholarships available to support women (with flights/hotels/childcare expense/etc) to be able to attend pleb.fi with thanks to our sponsors. if this applies to you, please fill out the form above! not a woman, but still need some help? let us know in the form and we'll do what we can!_
 
 # with gratitude to...
 {{< miami2022/sponsors >}}
@@ -62,7 +60,7 @@ able to follow along with all of the content.
 some noobschool content / office hours leading up to the event that you're
 encouraged to join.
 
-[https://www.rust-lang.org/learn](rust website) has some really great
+[the rust website](https://www.rust-lang.org/learn) has some really great
 exercises.
 
 see also the resources & readings section at the end of this site.
@@ -122,6 +120,27 @@ miami (if you see them during the event in person it's a disqualifier).
 interested in being a remote hacker? either ask your friends attending or [sign
 up](https://docs.google.com/forms/d/e/1FAIpQLSciVZi5Ots5z5BXdPTxxd-ygPcFf5YpQWTDgglIi-_Y0hLOvw/viewform) to share your info with teams.
 
+#### How To Win
+
+look, judging is subjective. at this event we're going to try to evaluate on 3 categories:
+
+1) did you learn something new that others can learn from
+2) does what you're building work towards solving a real unment need
+3) is what you're building non-obvious
+4) did you make use of something cool from any of the lectures throughout the workshops
+
+you can work on whatever you want! a really nice project built in python doing
+something on the lightning network could win, absolutely. but, the focus of
+*this* particular pleb.fi is on the bitcoin rust ecosystem, on smart contract
+related stuff like sapio and miniscript, and on building decentralized
+infrastructure. if you just do something cool based on things you already know,
+it's not a DQ, but we're going to value people trying out new things. most importantly...
+
+BUILD WHAT MAKES YOU THE MOST EXCITED
+
+that matters most.
+
+
 we'll adjust these rules as the event draws near; ask any clarifying questions
 in the telegram.
 
@@ -144,7 +163,8 @@ github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2
 
 ## Learn Rust
 
-1. [https://www.rust-lang.org/learn](rust tutorial)
+1. [Standard rust tutorial](https://www.rust-lang.org/learn)
+1. [Jeremy's Drunken Rust Guide](https://docs.google.com/presentation/d/19P7_OoNVf9lc3eZOltpDq2iejqrAT96cV9Hg-fq4W2k)
 
 ## Sapio
 
