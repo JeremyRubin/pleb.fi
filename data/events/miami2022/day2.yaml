@@ -7,7 +7,7 @@
       -
         name: andre
     description: im not sure mimosas are a good idea, but i'll be having one.
-      and maybe some solids.
+      and cookies, cafe con leche or soyleche, and fruit for the vegans.
 -
     begins: 10:00 AM
     ends: 10:30 AM
@@ -41,7 +41,7 @@
       -
         name: the power you need
     description: we know bitcoiners like artificial foods, so we'll have the
-      energy goo you deserve (non goo available on request).
+      energy goo you deserve... jk it's jamba juices to power through the push.
 -
     begins: 2:00 PM
     ends: 2:15 PM
@@ -82,4 +82,13 @@
         name: jeremy rubin
         twitter: jeremyrubin
     description: no participation trophies
-
+-
+    begins: 5:30 PM
+    ends: 6:30 PM
+    type: meal
+    topic: banquet
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: mediterranean banquet to celebrate the plebs

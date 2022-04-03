@@ -7,7 +7,7 @@
       -
         name: your belly
         twitter: 
-    description: be here or live a life full of regrets rueful for the moments you missed
+    description: bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels bagels 
 -
     begins: 8:55 AM
     ends: 9:00 AM
@@ -91,10 +91,7 @@
     ends: 12:30 PM
     topic: lunch
     type: meal
-    speakers: 
-      -
-        name: what's the o'cajun
-    description: peanut shrimp gumbo (someone is prolly allergic -- plz tell us)
+    description: taco bar
 
 -
     begins: 12:30 PM
@@ -191,6 +188,12 @@
     type: meal
     speakers: 
     description: we dont need a party the next 24 hours is gonna be hell, plus miami etc, let's chill out and relax a little before crunchtime.
+-
+    begins: 7:00 PM
+    ends: 8:00 PM
+    topic: dinner 
+    type: meal
+    description: dinner time, jamaican jerk chicken, fish fry, vegan opts, and more.
 -
     begins: 7:00 PM
     ends: 7:05 PM
