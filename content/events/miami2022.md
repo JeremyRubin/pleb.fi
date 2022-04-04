@@ -165,7 +165,7 @@ github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2
 
 1. [Standard rust tutorial](https://www.rust-lang.org/learn)
 1. [Jeremy's Drunken Rust Guide](https://docs.google.com/presentation/d/19P7_OoNVf9lc3eZOltpDq2iejqrAT96cV9Hg-fq4W2k)
-
+1. [Rust bitcoin telegram](https://t.me/rust_in_bitcoin )
 ## Sapio
 
 1. Sapio Book [here](https://learn.sapio-lang.org)
@@ -176,3 +176,8 @@ github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2
 
 ## BDK
 1. [Primer](https://slides.com/danielabrozzoni/bdk-primer)
+2. [Workshop](https://github.com/danielabrozzoni/plebfi-workshop-template)
+3. 
+## WASM/Rust
+
+1. [Hunter's Talk](https://docs.google.com/presentation/d/1-pMQPou_GfNdZhHlb4TRPDdoUUh-ZK1ZaXuzAxWRdqs/edit?usp=sharing)
