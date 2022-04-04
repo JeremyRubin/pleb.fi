@@ -106,17 +106,6 @@
 -
     begins: 1:00 PM
     ends: 1:15 PM
-    topic: customer support
-    type: talk
-    speakers:
-      -
-        name: jeremy rubin
-        twitter: jeremyrubin
-    description: let's get the basics of stuff installed and running, don't
-      worry about using it. N.B. if you dont trust me/dependencies i use, use a VM.
--
-    begins: 1:15 PM
-    ends: 1:30 PM
     topic: not-so-mini-script
     type: talk
     speakers:
@@ -126,8 +115,8 @@
     description: miniscript is cool but what is it really tho. we'll try to
       answer that and think mostly about how to use it.
 -
-    begins: 1:30 PM
-    ends: 2:00 PM
+    begins: 1:15 PM
+    ends: 1:45 PM
     topic: sapio architectural overview
     type: talk
     speakers:
@@ -136,8 +125,8 @@
         twitter: jeremyrubin
     description: how is it built? what is it even
 -
-    begins: 2:00 PM
-    ends: 2:15 PM
+    begins: 1:45 PM
+    ends: 2:00 PM
     topic: what's CTV got to do with it (got to do with it)
     type: talk
     speakers:
@@ -147,23 +136,10 @@
     description: an overview of what the opcode is and how to think of it in
       terms of what we just talked about.
 -
-    begins: 2:15 PM
-    ends: 2:30 PM
-    topic: sapio vault demo
-    type: talk
-    speakers:
-      -
-        name: jeremy rubin
-        twitter: jeremyrubin
--
-    begins: 2:30 PM
-    ends: 2:45 PM
-    topic: sapio NFT demo
-    type: talk
-    speakers:
-      -
-        name: jeremy rubin
-        twitter: jeremyrubin
+  begin: 2:00 PM
+  ends: 2:45 PM
+  topic: lets actually get this thing running
+
 -
     begins: 2:45 PM
     ends: 3:00 PM
