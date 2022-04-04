@@ -174,3 +174,5 @@ github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2
 ## Miniscript
 1. [Not So Miniscript](https://docs.google.com/presentation/d/1Jp5cK_8S0Z1ynAIr-VJ_hRJ4513YQ7r9pTV7xCFP9AA/)
 
+## BDK
+1. [Primer](https://slides.com/danielabrozzoni/bdk-primer)
