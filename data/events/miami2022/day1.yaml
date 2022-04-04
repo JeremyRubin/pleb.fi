@@ -95,14 +95,84 @@
 
 -
     begins: 12:30 PM
-    ends: 3:00 PM
-    topic: sapio slog
+    ends: 1:00 PM
+    topic: sapio speedrun 
     type: talk
     speakers:
       -
         name: jeremy rubin
         twitter: jeremyrubin
-    description: sapio is ready for prime time button up your suspenders it is time for SAPIOSZN
+    description: "im gonna show you some cool shit. you're gonna have a lot of questions, i'm not gonna answer them (yet). the goal here is to show you the good so you know it's real. then we'll go over how you can get this stuff running on your system. Mainly, you need to follow this guide https://rubin.io/bitcoin/2022/03/22/sapio-studio-btc-dev-mtg-6/"
+-
+    begins: 1:00 PM
+    ends: 1:15 PM
+    topic: customer support
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: let's get the basics of stuff installed and running, don't
+      worry about using it. N.B. if you dont trust me/dependencies i use, use a VM.
+-
+    begins: 1:15 PM
+    ends: 1:30 PM
+    topic: not-so-mini-script
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: miniscript is cool but what is it really tho. we'll try to
+      answer that and think mostly about how to use it.
+-
+    begins: 1:30 PM
+    ends: 2:00 PM
+    topic: sapio architectural overview
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: how is it built? what is it even
+-
+    begins: 2:00 PM
+    ends: 2:15 PM
+    topic: what's CTV got to do with it (got to do with it)
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+    description: an overview of what the opcode is and how to think of it in
+      terms of what we just talked about.
+-
+    begins: 2:15 PM
+    ends: 2:30 PM
+    topic: sapio vault demo
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+-
+    begins: 2:30 PM
+    ends: 2:45 PM
+    topic: sapio NFT demo
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
+-
+    begins: 2:45 PM
+    ends: 3:00 PM
+    topic: 15 cool hackathon ideas in 15 minutes
+    type: talk
+    speakers:
+      -
+        name: jeremy rubin
+        twitter: jeremyrubin
 -
     begins: 3:00 PM
     ends: 3:20 PM

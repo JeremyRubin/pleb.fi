@@ -169,4 +169,8 @@ github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2
 ## Sapio
 
 1. Sapio Book [here](https://learn.sapio-lang.org)
+1. [Sapio Architecture Slides](https://docs.google.com/presentation/d/1fi2buPj8U3z-5xNQPkgQPZ4imPPjOd3FHCd2txmr__M/)
+
+## Miniscript
+1. [Not So Miniscript](https://docs.google.com/presentation/d/1Jp5cK_8S0Z1ynAIr-VJ_hRJ4513YQ7r9pTV7xCFP9AA/)
 
