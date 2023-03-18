@@ -1,0 +1,6 @@
+
+<ol>
+{{ range $organizer := .Site.Data.events.miami2022.organizers }}
+<li><a href="{{$organizer.link}}">{{$organizer.name}}</a>: {{$organizer.orglink|safeHTML}} </li>
+{{ end }}
+</ol>
