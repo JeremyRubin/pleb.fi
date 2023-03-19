@@ -39,7 +39,7 @@ also food. some kind of party after. fun.
 
 
 # with gratitude to...
-{{< miami2023/sponsors >}}
+tbd {{< miami2023/sponsors >}}
 
 # convenient hotels to stay at
 tbd
