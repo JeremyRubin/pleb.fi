@@ -35,8 +35,12 @@ pleb means.
 
 also food. some kind of party after. fun.
 
-# APPLICATIONS: TDB
+# APPLICATIONS(TDB)
+Fill out [this form](https://forms.gle/6ErdeQZAq466cR7t5) and we'll send you a follow up email to buy tickets through eventbrite.
 
+Prices will be:
+1. $10 for early bird (before May 1)
+2. $20 regular (May 1+)
 
 # with gratitude to...
 tbd {{< miami2023/sponsors >}}
