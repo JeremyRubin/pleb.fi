@@ -3,7 +3,7 @@ location: miami
 title: pleb.fi miami 2023
 url: /miami2023/
 description: pleb.fi. miami event.
-aliases: ["/Miami2023/", "/MIAMI2023", "/SAPIOSZN", "SapioSzn", "sapioszn"]
+aliases: ["/Miami2023/", "/MIAMI2023"]
 description: pleb.fi. miami 2023 event, bring a change of socks.
 ---
 
@@ -22,7 +22,7 @@ description: pleb.fi. miami 2023 event, bring a change of socks.
 may 16-17 in Wynnwood
 # its bankLESS season
 # get in loser we're buidling
-<img src="/pleb23.jpg" width="500px" />
+<img src="/pleb23-1.jpg" width="500px" />
 
 
 ### if you dont come you will have to turn in your pleb card
