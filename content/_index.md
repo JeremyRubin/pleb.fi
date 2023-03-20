@@ -18,7 +18,7 @@ description: the best conference for bitcoin ever.
 ## think outside the box
 
 ### upcoming events 
-1. pleb.fi/miami2023 (TBA)
+1. [pleb.fi/miami2023](https://pleb.fi/miami2023/)
 
 ### past events 
 1. [pleb.fi Los Angeles(2022)](https://bitdevsla.org/pleb-fi-1/)
