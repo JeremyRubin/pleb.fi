@@ -6,22 +6,17 @@ description: pleb.fi. miami event.
 aliases: ["/Miami2023/", "/MIAMI2023"]
 description: pleb.fi. miami 2023 event, bring a change of socks.
 ---
-
-# THIS IS A PLACEHOLDER UNDER CONSTRUCTION
-
-
 # [pleb.fi](/)
 # [/miami2023](/miami2023)
 
 
-##### 🎶 the plebs are back in town🎶
-#### badder
-## BIGGER
-### but most importantly...
-# PLEBBER
+##### 🎶 guess who's back 🎶
+#### back again
+## PLEBFI'S BACK
+### BACK AGAIN
+# PLEBFISBACKPLEBFISBACKPLEBFISBACKPLEBFISBACK
 may 16-17 in Wynnwood
 # its bankLESS season
-# get in loser we're buidling
 <img src="/pleb23-1.jpg" width="500px" />
 
 
@@ -35,7 +30,7 @@ pleb means.
 
 also food. some kind of party after. fun.
 
-# APPLICATIONS(TDB)
+# APPLICATIONS
 Fill out [this form](https://forms.gle/6ErdeQZAq466cR7t5) and we'll send you a follow up email to buy tickets through eventbrite.
 
 Prices will be:
@@ -46,7 +41,7 @@ Prices will be:
 tbd {{< miami2023/sponsors >}}
 
 # convenient hotels to stay at
-tbd
+tbd - but izzah close to dah conference yo
 
 # prepping for pleb.fi / gimme homework?
 tbd
@@ -101,20 +96,17 @@ up](https://forms.gle/6ErdeQZAq466cR7t5) to share your info with teams.
 
 #### How To Win
 
-look, judging is subjective. at this event we're going to try to evaluate on 3 categories:
+BUILD WHAT MAKES YOU THE MOST EXCITED YOU FREAK
+
+but judging is subjective. at this event we're going to try to evaluate on 4 categories:
 
 1) did you learn something new that others can learn from
 2) does what you're building work towards solving a real unment need
 3) is what you're building non-obvious
 4) did you make use of something cool from any of the lectures throughout the workshops
 
-you can work on whatever you want! if you just do something cool based on things you already know,
-it's not a DQ, but we're going to value people trying out new things. most importantly...
-
-BUILD WHAT MAKES YOU THE MOST EXCITED
-
-that matters most.
-
+if you just do something cool based on things you already know,
+it's not a DQ, but we're going to value people trying out new things. 
 
 we'll adjust these rules as the event draws near; ask any clarifying questions
 in the telegram.
@@ -124,10 +116,6 @@ tbd
 
 ### we <3 plebs,
 {{< miami2023/organizers   >}}
-
-
-
-
 
 
 # RESOURCES
