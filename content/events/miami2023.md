@@ -118,7 +118,8 @@ tbd
 ### we <3 plebs,
 
 1. [ecurrencyhodler](https://twitter.com/ecurrencyhodler)
-2. [Grace Meyer](https://www.linkedin.com/in/grace-meyer-50319165/)
+2. [coinward](https://twitter.com/coinward)
+3. [Grace Meyer](https://www.linkedin.com/in/grace-meyer-50319165/)
 
 
 # RESOURCES
