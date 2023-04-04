@@ -3,8 +3,8 @@ title: pleb.fi
 description: the best conference for bitcoin ever.
 ---
 <div class="flash">
-<a href="/miami2022">
-<h1>join us in miami april 2022</h1>
+<a href="/miami2023">
+<h1>join us in miami april 2023</h1>
 </a>
 </div>
 

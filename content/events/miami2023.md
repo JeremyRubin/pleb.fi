@@ -45,11 +45,16 @@ tbd {{< miami2023/sponsors >}}
 tbd - but izzah close to dah conference yo
 
 # prepping for pleb.fi / gimme homework?
-tbd
+1. [miniscript](http://miniscript.com/)
 
 ### what the fuck is happening?
 _to be tweaked as we confirm more content_
 
+Speakers include:
++ [Rob Hamilton](https://twitter.com/Rob1Ham) on Miniscript and Ordinals
++ [Santos](https://twitter.com/5antoshernandez) on Nostr
++ [Justin Moon](https://twitter.com/_JustinMoon_) on Fedimint
++ [Jamil](https://twitter.com/jamilbtc) on Ordinals an decentralized marketplaces
 
 #### key dates
 
@@ -116,9 +121,14 @@ in the telegram.
 tbd
 
 ### we <3 plebs,
-{{< miami2023/organizers   >}}
+
+1. [ecurrencyhodler](https://twitter.com/ecurrencyhodler)
+2. [coinward](https://twitter.com/coinward)
+3. [Grace Meyer](https://www.linkedin.com/in/grace-meyer-50319165/)
 
 
 # RESOURCES
 To add resources, please open a PR and ping jeremy [on the
 github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2023.md).
+
+1. [miniscript](http://miniscript.com/)
