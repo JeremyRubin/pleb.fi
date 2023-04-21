@@ -39,7 +39,7 @@ Prices will be:
 2. $20 regular (May 1+)
 
 # with gratitude to...
-tbd {{< miami2023/sponsors >}}
+{{< miami2023/sponsors >}}
 
 # convenient hotels to stay at
 tbd - but izzah close to dah conference yo
@@ -50,11 +50,36 @@ tbd - but izzah close to dah conference yo
 ### what the fuck is happening?
 _to be tweaked as we confirm more content_
 
-Speakers include:
-+ [Rob Hamilton](https://twitter.com/Rob1Ham) on Miniscript and Ordinals
-+ [Santos](https://twitter.com/5antoshernandez) on Nostr
-+ [Justin Moon](https://twitter.com/_JustinMoon_) on Fedimint
-+ [Jamil](https://twitter.com/jamilbtc) on Ordinals an decentralized marketplaces
+**May 16**
+| Time | Speaker | Topic |
+| --------- | ----- | -----|
+| 8:30am-9:00am | Provided by our sponsors | Light breakfast + coffee |
+| 9:00am-9:15am | [ecurrencyhodler](https://twitter.com/ecurrencyhodler) | Kickoff |
+| 9:15am-9:45am | [Santos](https://twitter.com/5antoshernandez) | Nostr + Emeralize |
+| 9:45am-10:15am | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
+| 10:15-10:45am| [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr |
+| 10:45am-11:15am | [Rob Hamilton](https://twitter.com/Rob1Ham) | Smart contracts with miniscript |
+| 11:15am-12:30pm |Lunch| Provided by our sponsors |
+| 12:30pm-1:00pm | TBD |  |
+| 1:00pm-1:30pm | TBD |  |
+| 1:30pm-2:00pm | TBD |  |
+| 2:00pm-2:30pm | TBD |  |
+| 2:30pm-3:00pm | TBD |  |
+| 3:00pm-3:30pm | TBD |  |
+| 3:30pm-4:00pm | TBD |  |
+| 4:00pm-4:45pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
+| 4:45pm-5:00pm | ecurrencyhodler | Hackthon kickoff |
+| 5:00pm-6:00pm | Dinner | Provided by our sponsors |
+| 6:00pm | Open room | Space open all night and all day May 17 to hack |
+
+**May 17**
+| Time | Speaker | Topic |
+| --------- | ----- | -----|
+| 12:am-4:00pm | Open room | Space open until presentations |
+| 8:30am-9:30am | Provided by our sponsors | Light breakfast + coffee |
+| 12:00pm-1:00pm |Lunch| Provided by our sponsors |
+| 4:00pm-5:00pm | Hackers | Presentations + closing ceremony |
+| 8:00pm-11:00pm | Hackers+Attendees | Afterparty (TBA)! 🎉 |
 
 #### key dates
 
