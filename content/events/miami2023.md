@@ -47,6 +47,7 @@ tbd - but izzah close to dah conference yo
 # prepping for pleb.fi / gimme homework?
 1. [miniscript](http://miniscript.com/)
 2. [bitcoin dev kit](https://github.com/bitcoindevkit)
+3. [nostr pythong](https://github.com/jeffthibault/python-nostr)
 
 ### what the fuck is happening?
 _to be tweaked as we confirm more content_
