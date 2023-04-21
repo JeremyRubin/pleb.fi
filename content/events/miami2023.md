@@ -57,7 +57,7 @@ _to be tweaked as we confirm more content_
 | 9:00am-9:15am | [ecurrencyhodler](https://twitter.com/ecurrencyhodler) | Kickoff |
 | 9:15am-9:45am | [Santos](https://twitter.com/5antoshernandez) | Nostr + Emeralize |
 | 9:45am-10:15am | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
-| 10:15-10:45am| [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr |
+| 10:15-10:45am| [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) |
 | 10:45am-11:15am | [Rob Hamilton](https://twitter.com/Rob1Ham) | Smart contracts with miniscript |
 | 11:15am-12:30pm |Lunch| Provided by our sponsors |
 | 12:30pm-1:00pm | TBD |  |
