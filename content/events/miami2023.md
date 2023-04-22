@@ -79,7 +79,8 @@ _to be tweaked as we confirm more content_
 | --------- | ----- | -----|
 | 12:am-4:00pm | Open room | Space open until presentations |
 | 8:30am-9:30am | Provided by our sponsors | Light breakfast + coffee |
-| 12:00pm-1:00pm |Lunch| Provided by our sponsors |
+| 11:00am-12:00pm |Lunch| Provided by our sponsors |
+| 12:00pm-2:00pm | [coinward](https://twitter.com/coinward) | [Bitdevs Miami @ Bitcoin Grove](https://www.meetup.com/miami-bitdevs/events/292999676/) |
 | 4:00pm-5:00pm | Hackers | Presentations + closing ceremony |
 | 8:00pm-11:00pm | Hackers+Attendees | Afterparty (TBA)! 🎉 |
 
