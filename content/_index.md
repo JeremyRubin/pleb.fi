@@ -4,7 +4,7 @@ description: the best conference for bitcoin ever.
 ---
 <div class="flash">
 <a href="/miami2023">
-<h1>join us in miami april 2023</h1>
+<h1>join us in miami may 2023</h1>
 </a>
 </div>
 
