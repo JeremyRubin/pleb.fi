@@ -160,3 +160,4 @@ To add resources, please open a PR and ping jeremy [on the
 github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2023.md).
 
 1. [miniscript](http://miniscript.com/)
+1. [python nostr](https://github.com/jeffthibault/python-nostr)
