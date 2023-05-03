@@ -52,7 +52,7 @@ tbd - but izzah close to dah conference yo
 ### what the fuck is happening?
 _to be tweaked as we confirm more content_
 
-**May 16**
+**May 16 THE LAB AT WYNNWOOD**
 | Time | Speaker | Topic |
 | --------- | ----- | -----|
 | 8:30am-9:00am | Provided by our sponsors | Light breakfast + coffee |
@@ -68,7 +68,7 @@ _to be tweaked as we confirm more content_
 | 1:00pm-1:30pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) |
 | 1:30pm-2:00pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
 | 2:00pm-2:30pm | BREAK | BREAK |
-| **SIDECHAINS??? | SIDECHAINS??? | SIDECHAINS???** |
+| TRACK | SIDECHAINS??? | SIDECHAINS???** |
 | 2:30pm-3:00pm | [Lisa Neigut](https://twitter.com/niftynei) | Bitcoin deep dive: intro to protocols | 
 | 3:00pm-3:30pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
 | 3:30pm-4:00pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
