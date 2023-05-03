@@ -73,10 +73,11 @@ _to be tweaked as we confirm more content_
 | 3:00pm-3:30pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
 | 3:30pm-4:00pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
 | TRACK | ORDINALS | ORDINALS |
-| 4:00pm-4:45pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
-| 4:45pm-5:00pm | ecurrencyhodler | Hackathon kickoff |
-| 5:00pm-6:00pm | Dinner | Provided by our sponsors |
-| 6:00pm | Open room | Space open all night and all day May 17 to hack |
+| 4:00pm-4:30pm | [Paul Sztorc](https://twitter.com/Truthcoin), | Drivechains |
+| 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
+| 5:15pm-5:30pm | ecurrencyhodler | Hackathon kickoff |
+| 5:30pm-6:30pm | Dinner | Provided by our sponsors |
+| 6:30pm | Open room | Space open all night and all day May 17 to hack |
 
 **May 17**
 | Time | Speaker | Topic |
