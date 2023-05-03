@@ -56,23 +56,23 @@ _to be tweaked as we confirm more content_
 | Time | Speaker | Topic |
 | --------- | ----- | -----|
 | 8:30am-9:00am | Provided by our sponsors | Light breakfast + coffee |
-| **MINISCRIPT | MINISCRIPT | MINISCRIPT** |
+| TRACK | MINISCRIPT | MINISCRIPT |
 | 9:00am-9:15am | [ecurrencyhodler](https://twitter.com/ecurrencyhodler) | Kickoff |
 | 9:15am-9:45am | [Rob Hamilton](https://twitter.com/Rob1Ham) | Smart contracts with miniscript |
 | 9:45am-10:15am | [Édouard](https://twitter.com/edouardparis) | Miniscript: new challenges for hardware wallets |
 | 10:15-11:00am| Rob and [Antoine](https://twitter.com/darosior) | Miniscript panel  |
-| 11:00am-11:30am | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
-| 11:30am-12:30pm | Lunch | Provided by our sponsors |
-| **NOSTR+LIGHTNING | NOSTR+LIGHTNING | NOSTR+LIGHTNING** |
-| 12:30pm-1:00pm | [Jameson Lopp](https://twitter.com/lopp) | Why Nostr Matters |
-| 1:00pm-1:30pm | [Santos](https://twitter.com/5antoshernandez) | Nostr + Emeralize (remote) | 
-| 1:30pm-2:00pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) |
-| 2:00pm-2:30pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
+| 11:00am-12:00pm | Lunch | Provided by our sponsors |
+| TRACK | NOSTR | NOSTR |
+| 12:00pm-12:30pm | [Jameson Lopp](https://twitter.com/lopp) | Why Nostr Matters |
+| 12:30pm-1:00pm | [Santos](https://twitter.com/5antoshernandez) | Nostr + Emeralize (remote) | 
+| 1:00pm-1:30pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) |
+| 1:30pm-2:00pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
+| 2:00pm-2:30pm | BREAK | BREAK |
 | **SIDECHAINS??? | SIDECHAINS??? | SIDECHAINS???** |
-| 2:30pm-3:00pm | [Lisa Neigut](https://twitter.com/niftynei)  | Bitcoin deep dive: intro to protocols |
+| 2:30pm-3:00pm | [Lisa Neigut](https://twitter.com/niftynei) | Bitcoin deep dive: intro to protocols | 
 | 3:00pm-3:30pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
-| 3:30pm-4:00pm | TBD |  |
-| ORDINALS | ORDINALS | ORDINALS |
+| 3:30pm-4:00pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
+| TRACK | ORDINALS | ORDINALS |
 | 4:00pm-4:45pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
 | 4:45pm-5:00pm | ecurrencyhodler | Hackathon kickoff |
 | 5:00pm-6:00pm | Dinner | Provided by our sponsors |
