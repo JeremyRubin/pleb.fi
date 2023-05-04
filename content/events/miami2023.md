@@ -64,7 +64,7 @@ _to be tweaked as we confirm more content_
 | 11:00am-12:00pm | Lunch | Provided by our sponsors |
 | TRACK | NOSTR | NOSTR |
 | 12:00pm-12:30pm | [Jameson Lopp](https://twitter.com/lopp) | Why Nostr Matters |
-| 12:30pm-1:00pm | [Santos](https://twitter.com/5antoshernandez) | Nostr + Emeralize (remote) | 
+| 12:30pm-1:00pm | [Christopher David](https://twitter.com/ArcadeCityMayor) | Layer Two Nostr | 
 | 1:00pm-1:30pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) |
 | 1:30pm-2:00pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
 | 2:00pm-2:30pm | BREAK | BREAK |
@@ -91,7 +91,6 @@ _to be tweaked as we confirm more content_
 
 #### key dates
 
-_see below for exact agenda._
 - **tue may 16th morning-day: workshops + talks**
 - **tue may 16th evening: hackathon kickoff**
 - **wed may 17th morning: hackathon**
@@ -159,10 +158,3 @@ tbd
 2. [coinward](https://twitter.com/coinward)
 3. [Grace Meyer](https://www.linkedin.com/in/grace-meyer-50319165/)
 
-
-# RESOURCES
-To add resources, please open a PR and ping jeremy [on the
-github](https://github.com/JeremyRubin/pleb.fi/edit/master/content/events/miami2023.md).
-
-1. [miniscript](http://miniscript.com/)
-1. [python nostr](https://github.com/jeffthibault/python-nostr)
