@@ -72,8 +72,8 @@ _to be tweaked as we confirm more content_
 | 2:30pm-3:00pm | [Lisa Neigut](https://twitter.com/niftynei) | Bitcoin deep dive: intro to protocols | 
 | 3:00pm-3:30pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
 | 3:30pm-4:00pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
-| TRACK | ORDINALS | ORDINALS |
 | 4:00pm-4:30pm | [Paul Sztorc](https://twitter.com/Truthcoin), | Drivechains |
+| TRACK | ORDINALS | ORDINALS |
 | 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
 | 5:15pm-5:30pm | ecurrencyhodler | Hackathon kickoff |
 | 5:30pm-6:30pm | Dinner | Provided by our sponsors |
