@@ -25,7 +25,7 @@ may 16-17 in Wynnwood
 
 come for 2 days of hacking, mentorship, workshops, and discussions on how to
 contribute to bitcoin functionality accelerationism and build kickass
-applications on bitcoin using nostr, fedimint, ordinals, and more. we'll also get
+applications on bitcoin using nostr, fedimint, miniscript, and more. we'll also get
 into how to get your project funded either traditionally or through new age
 pleb means.
 
@@ -50,7 +50,6 @@ tbd - but izzah close to dah conference yo
 3. [nostr pythong](https://github.com/jeffthibault/python-nostr)
 
 ### what the fuck is happening?
-_to be tweaked as we confirm more content_
 
 **May 16 THE LAB AT WYNNWOOD**
 | Time | Speaker | Topic |
@@ -85,7 +84,8 @@ _to be tweaked as we confirm more content_
 | 12:am-4:00pm | Open room | Space open until presentations |
 | 8:30am-9:30am | Provided by our sponsors | Light breakfast + coffee |
 | 11:00am-12:00pm |Lunch| Provided by our sponsors |
-| 3:30pm-5:00pm | [coinward](https://twitter.com/coinward) | [Bitdevs Miami @ Bitcoin Grove](https://www.meetup.com/miami-bitdevs/events/292999676/) |
+| 3:30pm-5:00pm | [coinward](https://twitter.com/coinward) | Side event for non-hackers: [Bitdevs Miami @ Bitcoin Grove](https://www.meetup.com/miami-bitdevs/events/292999676/) |
+| 4:00pm-4:30pm | Hackers uber from the Lab to Grove | The Grove (7580 NE 4th Ct, Miami, FL 33138) |
 | 5:00pm-6:00pm | Hacker Presentations | The Grove (7580 NE 4th Ct, Miami, FL 33138) |
 | 8:00pm-11:00pm | Hackers + Attendees | Afterparty 🎉 |
 
@@ -148,9 +148,6 @@ it's not a DQ, but we're going to value people trying out new things.
 
 we'll adjust these rules as the event draws near; ask any clarifying questions
 in the telegram.
-
-### tHe PlEbIaN aGeNdA
-tbd
 
 ### we <3 plebs,
 
