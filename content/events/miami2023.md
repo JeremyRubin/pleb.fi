@@ -41,9 +41,6 @@ Prices will be:
 # with gratitude to...
 {{< miami2023/sponsors >}}
 
-# convenient hotels to stay at
-tbd - but izzah close to dah conference yo
-
 # prepping for pleb.fi / gimme homework?
 1. [miniscript](http://miniscript.com/)
 2. [bitcoin dev kit](https://github.com/bitcoindevkit)
