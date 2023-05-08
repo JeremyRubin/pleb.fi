@@ -57,7 +57,7 @@ Prices will be:
 | 9:15am-9:45am | [Rob Hamilton](https://twitter.com/Rob1Ham) | Smart contracts with miniscript |
 | 9:45am-10:15am | [Édouard](https://twitter.com/edouardparis) | Miniscript: new challenges for hardware wallets |
 | 10:15-11:00am| Rob and [Antoine](https://twitter.com/darosior) | Miniscript panel  |
-| 11:00am-12:00pm | Lunch | Provided by our sponsors |
+| 11:00am-12:00pm | Lunch | Provided by our sponsors. Served at the Lab |
 | TRACK | NOSTR | NOSTR |
 | 12:00pm-12:30pm | [Jameson Lopp](https://twitter.com/lopp) | Why Nostr Matters |
 | 12:30pm-1:00pm | [Christopher David](https://twitter.com/ArcadeCityMayor) | Layer Two Nostr | 
@@ -72,15 +72,15 @@ Prices will be:
 | TRACK | ORDINALS | ORDINALS |
 | 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
 | 5:15pm-5:30pm | ecurrencyhodler | Hackathon kickoff |
-| 5:30pm-6:30pm | Dinner | Provided by our sponsors |
+| 5:30pm-6:30pm | Dinner | Provided by our sponsors. Served at the Lab |
 | 6:30pm | Open room | Space open all night and all day May 17 to hack |
 
 **May 17**
 | Time | Speaker | Topic |
 | --------- | ----- | -----|
-| 12:am-4:00pm | Open room | Space open until presentations |
+| 12:am-4:00pm | Open room | The Lab open until presentations |
 | 8:30am-9:30am | Provided by our sponsors | Light breakfast + coffee |
-| 11:00am-12:00pm |Lunch| Provided by our sponsors |
+| 11:00am-12:00pm | Lunch | Provided by our sponsors. Served at the Lab |
 | 3:30pm-5:00pm | [coinward](https://twitter.com/coinward) | Side event for non-hackers: [Bitdevs Miami @ Bitcoin Grove](https://www.meetup.com/miami-bitdevs/events/292999676/) |
 | 4:00pm-4:30pm | Hackers uber from the Lab to Grove | The Grove (7580 NE 4th Ct, Miami, FL 33138) |
 | 5:00pm-6:00pm | Hacker Presentations | The Grove (7580 NE 4th Ct, Miami, FL 33138) |
