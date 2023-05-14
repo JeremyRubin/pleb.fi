@@ -60,16 +60,16 @@ Prices will be:
 | 11:00am-12:00pm | Lunch | Provided by our sponsors. Served at the Lab |
 | TRACK | NOSTR | NOSTR |
 | 12:00pm-12:30pm | [Jameson Lopp](https://twitter.com/lopp) | Why Nostr Matters |
-| 12:30pm-1:00pm | [Christopher David](https://twitter.com/ArcadeCityMayor) | Layer Two Nostr | 
-| 1:00pm-1:30pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) |
-| 1:30pm-2:00pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
+| 12:30pm-1:00pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) | 
+| 1:00pm-1:30pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
+| 1:30pm-2:00pm | [Lisa Neigut](https://twitter.com/niftynei) | Bitcoin deep dive: intro to protocols | 
 | 2:00pm-2:30pm | BREAK | BREAK |
 | TRACK | SIDECHAINS??? | SIDECHAINS??? |
-| 2:30pm-3:00pm | [Lisa Neigut](https://twitter.com/niftynei) | Bitcoin deep dive: intro to protocols | 
-| 3:00pm-3:30pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
-| 3:30pm-4:00pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
-| 4:00pm-4:30pm | [Paul Sztorc](https://twitter.com/Truthcoin), | Drivechains |
+| 2:30pm-3:00pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
+| 3:00pm-3:30pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
+| 3:30pm-4:00pm | [Paul Sztorc](https://twitter.com/Truthcoin), | Drivechains |
 | TRACK | ORDINALS | ORDINALS |
+| 4:00pm-4:30pm | [Eril Gun Ezerel](https://twitter.com/0xBinari) | A data-rich exploration into the Ordinals space |
 | 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [NickH](https://twitter.com/hash_bender) | Decentralized ordinal marketplace panel |
 | 5:15pm-5:30pm | ecurrencyhodler | Hackathon kickoff |
 | 5:30pm-6:30pm | Dinner | Provided by our sponsors. Served at the Lab |
