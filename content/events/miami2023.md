@@ -67,7 +67,7 @@ Prices will be:
 | TRACK | SIDECHAINS??? | SIDECHAINS??? |
 | 2:30pm-3:00pm | [Justin Moon](https://twitter.com/_JustinMoon_)  | Fedimint |
 | 3:00pm-3:30pm | [Burak](https://twitter.com/brqgoo) | tbdxxx - a privacy preserving layer 2 |
-| 3:30pm-4:00pm | [Paul Sztorc](https://twitter.com/Truthcoin), | Drivechains |
+| 3:30pm-4:00pm | [Paul Sztorc](https://twitter.com/Truthcoin) | Drivechains |
 | TRACK | ORDINALS | ORDINALS |
 | 4:00pm-4:30pm | [Eril Gun Ezerel](https://twitter.com/0xBinari) | A data-rich exploration into the Ordinals space |
 | 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [Psifour](https://twitter.com/Psifour) | Decentralized ordinal marketplace panel |
