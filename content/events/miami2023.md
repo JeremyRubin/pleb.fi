@@ -70,7 +70,7 @@ Prices will be:
 | 3:30pm-4:00pm | [Paul Sztorc](https://twitter.com/Truthcoin), | Drivechains |
 | TRACK | ORDINALS | ORDINALS |
 | 4:00pm-4:30pm | [Eril Gun Ezerel](https://twitter.com/0xBinari) | A data-rich exploration into the Ordinals space |
-| 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [Psifour](https://twitter.com/Psifour)) | Decentralized ordinal marketplace panel |
+| 4:30pm-5:15pm | [Jamil](https://twitter.com/jamilbtc), [cbspears](https://twitter.com/cbspears), [Psifour](https://twitter.com/Psifour) | Decentralized ordinal marketplace panel |
 | 5:15pm-5:30pm | ecurrencyhodler | Hackathon kickoff |
 | 5:30pm-6:30pm | Dinner | Provided by our sponsors. Served at the Lab |
 | 6:30pm | Open room | Space open all night and all day May 17 to hack |
