@@ -62,7 +62,7 @@ Prices will be:
 | 12:00pm-12:30pm | [Jameson Lopp](https://twitter.com/lopp) | Why Nostr Matters |
 | 12:30pm-1:00pm | [/dev/fd0](https://twitter.com/1440000bytes) | Joinstr (remote) | 
 | 1:00pm-1:30pm | [Ray Yousef](https://twitter.com/raypaxful) | CivKit |
-| 1:30pm-2:00pm | [Jeff](https://twitter.com/erskingardner) and [Pablo](https://twitter.com/pablof7z) | Biggest Nostr challenges | 
+| 1:30pm-2:00pm | [Jeff](https://primal.net/jeffg) and [Pablo](https://primal.net/pablof7z) | Biggest Nostr challenges | 
 | 2:00pm-2:30pm | [Lisa Neigut](https://twitter.com/niftynei)| Bitcoin deep dive: intro to protocols |
 | TRACK | SIDECHAINS??? | SIDECHAINS??? |
 | 2:30pm-3:00pm | BREAK  | BREAK |
