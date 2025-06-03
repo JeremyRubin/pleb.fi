@@ -13,7 +13,7 @@ description: the best conference for bitcoin ever.
 
 ## never stop improvin bitcoin
 
-<img src="plebfi.jpg" width="500px" />
+<img src="pleb25.gif" width="500px" />
 
 ## think outside the box
 
