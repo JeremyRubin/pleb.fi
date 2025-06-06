@@ -8,11 +8,11 @@ description: pleb.fi. Miami July 2025 event.
 ---
 # pleb.fi miami 2025
 
-## WHAT THE FORK???
+## 🪐 METAPROTOCOLS 🪐
 
-there are a lots of hidden 🤫 challenges when it comes to maintaining a fork of bitcoin. we're going to talk through these challenges in workshops and YOU will come up with ways to fix 'em. 
+there has been a renaissance in metaprotocols over the past year including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
 
-maybe. possibly. hopefully. 🙏
+come learn, hack, and build.
 
 ## when?
 july 26-27 at the Port in miami
@@ -21,14 +21,14 @@ july 26-27 at the Port in miami
 fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) and we'll send you an email to buy tickets through luma. address of the event will also be included.
 
 ticket prices will be:
-1. $20 for early bird (before July 18)
-2. $40 regular (July 18+)
+1. $30 for early bird (before July 18)
+2. $60 regular (July 18+)
 
 # with gratitude to...
 interested in sponsoring? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
-resources and documentation coming soon...🤖
+resources and documentation coming soon...👾
 
 ## key dates
 
@@ -60,6 +60,7 @@ there will be prizes! (subject to change till the event starts).
 | --------- | ----- |
 | track 1 | $2000 |
 | track 2 | $2000 |
+| track 3 | $2000 |
 
 
 ## basic rules
@@ -80,7 +81,7 @@ miami (if you see them during the event in person it's a disqualifier).
 
 ## how to win
 
-BUIDL SOMETHING THAT IMPROVES FORKING AND MAINTAINING BITCOIN CORE!
+BUIDL A THING IN THE METAPROTOCOL UNIVERSE AND MAKE NEW FRIENDS ALONG THE WAY!
 
 we're going to specifically evaluate on the following categories:
 
@@ -96,3 +97,4 @@ therefore hackathon submissions should include:
 ### with love
 
 1. [ecurrencyhodler](https://twitter.com/ecurrencyhodler)
+1. [mini_ponz](https://x.com/ponzini)
