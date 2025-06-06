@@ -28,7 +28,9 @@ ticket prices will be:
 interested in sponsoring? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
-resources and documentation coming soon...👾
+[Alkanes Docs](https://alkanes.dev)
+[Ordinals Docs](https://docs.ordinals.com)
+more resources and documentation coming soon...👾
 
 ## key dates
 
