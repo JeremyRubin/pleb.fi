@@ -18,13 +18,15 @@ come learn, hack, and build!
 july 26-27 at the Port in miami
 
 ## apply to attend (tickets)
-fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) to register. if you get approved, we'll send you an email to buy tickets through luma. address of the event will also be included.
+fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) to register to apply. if you get approved, we'll send you an email to buy tickets through luma. address of the event will also be included.
 
 ticket prices will be:
 1. $30 for early bird (before July 18)
 2. $60 regular (July 18+)
 
 ## with gratitude to...
+{{< miami2025/sponsors >}}
+
 interested in sponsoring? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
