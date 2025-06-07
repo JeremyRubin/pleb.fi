@@ -18,7 +18,7 @@ description: the best conference for bitcoin ever.
 ## think outside the box
 
 ### upcoming events 
-1. [pleb.fi/miami2025](https://pleb.fi/july2025/)
+1. [pleb.fi/miami2025](https://pleb.fi/miami2025/)
 
 ### past events 
 1. [pleb.fi/miami2023](https://pleb.fi/miami2023/)
