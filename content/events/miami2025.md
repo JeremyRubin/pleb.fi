@@ -12,19 +12,21 @@ description: pleb.fi. Miami July 2025 event.
 
 there has been a renaissance in metaprotocols over the past year including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
 
-come learn, hack, and build.
+come learn, hack, and build!
 
 ## when?
 july 26-27 at the Port in miami
 
-## apply to attend
-fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) and we'll send you an email to buy tickets through luma. address of the event will also be included.
+## apply to attend (tickets)
+fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) to register to apply. if you get approved, we'll send you an email to buy tickets through luma. address of the event will also be included.
 
 ticket prices will be:
 1. $30 for early bird (before July 18)
 2. $60 regular (July 18+)
 
-# with gratitude to...
+## with gratitude to...
+{{< miami2025/sponsors >}}
+
 interested in sponsoring? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
@@ -38,17 +40,34 @@ resources and documentation coming soon...👾
 - **sun july 27th afternoon: hackathon judging & demos**
 
 ## so...what's the plan?
-if you want to speak, submit your workshop topic proposal [here](https://forms.gle/U5gmmBNGGY68qJpr9). the workshops should inspire and empower plebs to build cool stuff.
+if you want to speak, submit your workshop topic proposal [here](https://forms.gle/U5gmmBNGGY68qJpr9). the workshops should be related to the theme and empower plebs to build cool stuff.
 
 **july 26**
-| Time | Speaker | Topic |
+| Time | Topic | Speaker |
 | --------- | ----- | -----|
-| TBD | TBD | TBD |
+| 8:30 AM | Light breakfast and coffee | Light breakfast and coffee |
+| 9:00 AM | What's a metaprotocol? | TBD |
+| 9:30 AM | TBD | TBD |
+| 10:30 AM | TBD | TBD |
+| 11:00 AM | TBD | TBD |
+| 11:30 AM | Breakfast | Breakfast |
+| 12:00 PM | Lunch | Lunch |
+| 1:00 PM | TBD | TBD |
+| 1:30 PM | Workshop | TBD |
+| 2:15 PM | Workshop | TBD |
+| 3:00 PM | Workshop | TBD |
+| 3:45 PM | Workshop | TBD |
+| 4:30 PM | Future of metaprotocols panel | TBD |
+| 5:00 PM | Hackathon Kickoff | Hackathon Kickoff |
+| 5:30 PM | Dinner | Dinner |
 
 **july 27**
 | Time | Speaker | Topic |
 | --------- | ----- | -----|
-| TBD | TBD | TBD |
+| 8:30 AM | Light breakfast and coffee | Light breakfast and coffee |
+| 12:00 PM | Lunch | Lunch |
+| 4:00 PM | Presentations | Presentations |
+| 5:30 PM | After party | After party |
 
 ## hackathon rules
 
@@ -86,7 +105,7 @@ BUIDL A THING IN THE METAPROTOCOL UNIVERSE AND MAKE NEW FRIENDS ALONG THE WAY!
 we're going to specifically evaluate on the following categories:
 
 1) did you learn something new that others can learn from?
-2) does your project address of forking and maintaining core?
+2) how meta is your metaprotocol project?
 3) is it cool?
 
 therefore hackathon submissions should include:
