@@ -6,11 +6,11 @@ description: pleb.fi. miami event.
 aliases: ["/miami2025/", "/MIAMI2025"]
 description: pleb.fi. Miami July 2025 event.
 ---
-# pleb.fi miami 2025
+# [pleb.fi](https://pleb.fi/) miami 2025
 
 ## 🪐 METAPROTOCOLS 🪐
 
-there has been a renaissance in metaprotocols over the past year including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
+there has been a renaissance in metaprotocols over the couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
 
 come learn, hack, and build!
 
@@ -18,7 +18,7 @@ come learn, hack, and build!
 july 26-27 at the Port in miami
 
 ## apply to attend (tickets)
-fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) to register to apply. if you get approved, we'll send you an email to buy tickets through luma. address of the event will also be included.
+fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) to apply for a ticket. if you get approved, we'll send you an email to buy tickets through luma. address of the event will also be included.
 
 ticket prices will be:
 1. $30 for early bird (before July 18)
@@ -50,7 +50,7 @@ if you want to speak, submit your workshop topic proposal [here](https://forms.g
 | 9:30 AM | TBD | TBD |
 | 10:30 AM | TBD | TBD |
 | 11:00 AM | TBD | TBD |
-| 11:30 AM | Breakfast | Breakfast |
+| 11:30 AM | TBD | TBD |
 | 12:00 PM | Lunch | Lunch |
 | 1:00 PM | TBD | TBD |
 | 1:30 PM | Workshop | TBD |
@@ -75,7 +75,7 @@ if you want to speak, submit your workshop topic proposal [here](https://forms.g
 
 there will be prizes! (subject to change till the event starts).
 
-| track | cash |
+| track | cash prize |
 | --------- | ----- |
 | track 1 | $2000 |
 | track 2 | $2000 |
