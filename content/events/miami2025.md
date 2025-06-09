@@ -12,13 +12,13 @@ description: pleb.fi. Miami July 2025 event.
 
 there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
 
-come learn, hack, and never stop improvin' bitcoin!
+come learn, hack, and join us as we never stop improvin' bitcoin!
 
 ## when?
 july 26-27 at the Port in miami
 
 ## apply to attend (tickets)
-apply to become a hackathon participant by clicking "apply now". if you get approved, we'll send you an email to buy tickets through luma. address of the event will revealed once a ticket is purchased.
+apply to become a hackathon participant by clicking "apply now". if you get approved, we'll send you an email to buy tickets through luma. address of the event will be revealed once a ticket is purchased.
 
 ticket prices will be:
 1. $30 for early bird (before July 18)
@@ -41,7 +41,7 @@ ticket prices will be:
 ## with gratitude to...
 {{< miami2025/sponsors >}}
 
-interested in sponsoring? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
+interested in becoming a sponsor? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
 resources and documentation coming soon...👾
