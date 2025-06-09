@@ -12,17 +12,31 @@ description: pleb.fi. Miami July 2025 event.
 
 there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
 
-come learn, hack, and build!
+come learn, hack, and never stop improvin' bitcoin!
 
 ## when?
 july 26-27 at the Port in miami
 
 ## apply to attend (tickets)
-fill out [this form](https://forms.gle/rDoCG45VLXVpETW56) to apply for a ticket. if you get approved, we'll send you an email to buy tickets through luma. address of the event will also be included.
+apply to become a hackathon participant by clicking "apply now". if you get approved, we'll send you an email to buy tickets through luma. address of the event will revealed once a ticket is purchased.
 
 ticket prices will be:
 1. $30 for early bird (before July 18)
 2. $60 regular (July 18+)
+
+<div style="text-align: center; margin-top: 2rem;">
+  <a href="https://forms.gle/rDoCG45VLXVpETW56" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 0.75rem 1.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 0.3rem;
+    transition: background-color 0.2s ease-in-out;">
+    apply now
+  </a>
+</div>
 
 ## with gratitude to...
 {{< miami2025/sponsors >}}
@@ -62,7 +76,7 @@ if you want to speak, submit your workshop topic proposal [here](https://forms.g
 | 5:30 PM | Dinner | Dinner |
 
 **july 27**
-| Time | Speaker | Topic |
+| Time | Topic | Speaker |
 | --------- | ----- | -----|
 | 8:30 AM | Light breakfast and coffee | Light breakfast and coffee |
 | 12:00 PM | Lunch | Lunch |
