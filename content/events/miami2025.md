@@ -10,7 +10,7 @@ description: pleb.fi. Miami July 2025 event.
 
 ## 🪐 METAPROTOCOLS 🪐
 
-there has been a renaissance in metaprotocols over the couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
+there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
 
 come learn, hack, and build!
 
