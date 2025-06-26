@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pleb.fi on the most pleb conf</title><link>https://pleb.fi/</link><description>Recent content in pleb.fi on the most pleb conf</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pleb.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>fees &amp; smart contracts</title><link>https://pleb.fi/transcripts/2021/miami/ryang/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>https://pleb.fi/transcripts/2021/miami/ryang/</guid><description>&lt;h2 id="jeremy-rubin--hahahugoshortcode12s0hbhb">Jeremy Rubin &lt;button onclick="audio_skip(&amp;#34;0:00&amp;#34;)" >0:00&lt;/button>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>pleb.fi on the most pleb conf</title><link>https://pleb.fi/</link><description>Recent content in pleb.fi on the most pleb conf</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pleb.fi/index.xml" rel="self" type="application/rss+xml"/><item><title>fees &amp; smart contracts</title><link>https://pleb.fi/transcripts/2021/miami/ryang/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>https://pleb.fi/transcripts/2021/miami/ryang/</guid><description>&lt;h2 id="jeremy-rubin--hahahugoshortcode13s0hbhb">Jeremy Rubin &lt;button onclick="audio_skip(&amp;#34;0:00&amp;#34;)" >0:00&lt;/button>
 &lt;/h2>
 &lt;p>Let&amp;rsquo;s give a big thank you to Tarun for that that was really, really awesome.
 And are you gonna be able to stick around for a bit? I&amp;rsquo;ll be around, I will
 have some brainstorming session too. So you can catch them with your questions.
 And he&amp;rsquo;s @tarunChitra on Twitter. So definitely follow there and tweet at him
 if you got any other questions.&lt;/p>
-&lt;h2 id="jeremy-rubin--hahahugoshortcode12s1hbhb">Jeremy Rubin &lt;button onclick="audio_skip(&amp;#34;0:21&amp;#34;)" >0:21&lt;/button>
+&lt;h2 id="jeremy-rubin--hahahugoshortcode13s1hbhb">Jeremy Rubin &lt;button onclick="audio_skip(&amp;#34;0:21&amp;#34;)" >0:21&lt;/button>
 &lt;/h2>
 &lt;p>I think that stuff is it&amp;rsquo;s a pretty critical, like soul searching question for
 the Bitcoin community. Because a lot of the way that the UTXO model is
@@ -18,7 +18,7 @@ you&amp;rsquo;re building a Bitcoin protocol, like peer to peer finance, rather 
 like, the etheruem style like centralized DeFi where it&amp;rsquo;s a contract, and but
 it&amp;rsquo;s the one contract, everybody interacts with. Bitcoin is much more
 piecemeal. So picking that up, I think has some interesting scalability
-questions. And hopefully, one of you here is going to fix all that.&lt;/p></description></item><item><title>tradfi v.s. defi: they won't or they can't?</title><link>https://pleb.fi/transcripts/2021/miami/tarun/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>https://pleb.fi/transcripts/2021/miami/tarun/</guid><description>&lt;h2 id="tarun-chitra--hahahugoshortcode13s0hbhb">Tarun Chitra &lt;button onclick="audio_skip(&amp;#34;0:00&amp;#34;)" >0:00&lt;/button>
+questions. And hopefully, one of you here is going to fix all that.&lt;/p></description></item><item><title>tradfi v.s. defi: they won't or they can't?</title><link>https://pleb.fi/transcripts/2021/miami/tarun/</link><pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate><guid>https://pleb.fi/transcripts/2021/miami/tarun/</guid><description>&lt;h2 id="tarun-chitra--hahahugoshortcode14s0hbhb">Tarun Chitra &lt;button onclick="audio_skip(&amp;#34;0:00&amp;#34;)" >0:00&lt;/button>
 &lt;/h2>
 &lt;p>Thanks, Jeremy, for the introduction. Yeah, so I think what I&amp;rsquo;m going to really cover is kind of like, what makes DeFi markets different than traditional finance markets and when you&amp;rsquo;re developing what, what things you should be thinking of. But I think part of that is actually looking at what the overall market structure looks like, and why some of these markets are just significantly more efficient, or have created, you know, this huge amount of demand over the last 12 months. But, you know, I think it kind of helps to first define what the things are. So, I wrote most of the presentations, while in the cab on the way here, so I apologize. But I will post these, and I will talk through it. So, so, apologies. So, you know, I think the first thing is, you know, DEFI is now unfortunately, a buzzword that is as bad of a buzzword, as you know, Ico or proof of stake, where it actually means like 5 million things. And it&amp;rsquo;s not, it&amp;rsquo;s not very useful or meaningful term on its own. But there&amp;rsquo;s sort of a set of criteria that I think, are kind of pretty important to defining what DeFi is. So at a very high level, I would say it&amp;rsquo;s credibly neutral, open and fair mechanisms for facilitating trade and leverage in composable, and purely algorithmic marriage.&lt;/p></description></item><item><title>pleb.fi austin</title><link>https://pleb.fi/austin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/austin/</guid><description>&lt;h1 id="plebfi">&lt;a href="https://pleb.fi/">pleb.fi&lt;/a>&lt;/h1>
 &lt;h1 id="austin">&lt;a href="https://pleb.fi/austin">/austin&lt;/a>&lt;/h1>
@@ -210,9 +210,9 @@ applications on bitcoin using nostr, fedimint, miniscript, and more. we&amp;rsqu
 into how to get your project funded either traditionally or through new age
 pleb means.&lt;/p></description></item><item><title>pleb.fi miami 2025</title><link>https://pleb.fi/miami2025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2025/</guid><description>&lt;h1 id="plebfi-miami-2025">&lt;a href="https://pleb.fi/">pleb.fi&lt;/a> miami 2025&lt;/h1>
 &lt;h2 id="-metaprotocols-">🪐 METAPROTOCOLS 🪐&lt;/h2>
-&lt;p>there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin&amp;rsquo;s functionality.&lt;/p>
+&lt;img src="https://pleb.fi/pleb25-1.gif" width="500px" />
+&lt;h3 id="surprise-its-metaprotocols">surprise! its metaprotocols!&lt;/h3>
+&lt;p>there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into some ways to extend bitcoin&amp;rsquo;s functionality without a soft fork :)&lt;/p>
 &lt;p>come learn, hack, and join us as we never stop improvin&amp;rsquo; bitcoin!&lt;/p>
 &lt;h2 id="when">when?&lt;/h2>
-&lt;p>july 26-27 at the Port in miami&lt;/p>
-&lt;h2 id="apply-to-attend-tickets">apply to attend (tickets)&lt;/h2>
-&lt;p>apply to become a hackathon participant by clicking &amp;ldquo;apply now&amp;rdquo;. if you get approved, we&amp;rsquo;ll send you an email to buy tickets through luma. address of the event will be revealed once a ticket is purchased.&lt;/p></description></item></channel></rss>
+&lt;p>july 26-27 at the Port in Miami (midtown)&lt;/p></description></item></channel></rss>
