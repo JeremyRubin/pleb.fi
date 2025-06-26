@@ -10,7 +10,7 @@ description: pleb.fi. Miami July 2025 event.
 
 ## 🪐 METAPROTOCOLS 🪐
 
-<img src="/pleb23-1.jpg" width="500px" />
+<img src="/pleb25-1.gif" width="500px" />
 
 ### surprise! its metaprotocols!
 
