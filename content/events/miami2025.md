@@ -10,15 +10,19 @@ description: pleb.fi. Miami July 2025 event.
 
 ## 🪐 METAPROTOCOLS 🪐
 
-there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into the newest frameworks in extending bitcoin's functionality.
+<img src="/pleb25-1.gif" width="500px" />
+
+### surprise! its metaprotocols!
+
+there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into some ways to extend bitcoin's functionality without a soft fork :)
 
 come learn, hack, and join us as we never stop improvin' bitcoin!
 
 ## when?
-july 26-27 at the Port in miami
+july 26-27 at the Port in Miami (midtown)
 
 ## apply to attend (tickets)
-apply to become a hackathon participant by clicking "apply now". if you get approved, we'll send you an email to buy tickets through luma. address of the event will be revealed once a ticket is purchased.
+apply to become a hackathon participant by clicking "apply now". if approved, we'll send you an email to buy tickets through luma. address of the event will be revealed once a ticket is purchased.
 
 ticket prices will be:
 1. $30 for early bird (before July 18)
@@ -56,23 +60,29 @@ resources and documentation coming soon...👾
 ## so...what's the plan?
 if you want to speak, submit your workshop topic proposal [here](https://forms.gle/U5gmmBNGGY68qJpr9). the workshops should be related to the theme and empower plebs to build cool stuff.
 
+schedule subject to change at the whims of your organizers
+
 **july 26**
 | Time | Topic | Speaker |
 | --------- | ----- | -----|
 | 8:30 AM | Light breakfast and coffee | Light breakfast and coffee |
 | 9:00 AM | What's a metaprotocol? | TBD |
 | 9:30 AM | TBD | TBD |
+| 10:00 AM | metaprotocol soft fork? definitely not controversial | [joshdoman_](https://x.com/joshdoman_) |
 | 10:30 AM | TBD | TBD |
-| 11:00 AM | TBD | TBD |
+| 11:00 AM | something you'll like, probably about ordinals | [raphjaph](https://x.com/raphjaph) |
 | 11:30 AM | Filters and metaprotocols | [portlandhodl](https://x.com/PortlandHODL) |
 | 12:00 PM | Lunch | Lunch |
-| 1:00 PM | TBD | TBD |
-| 1:30 PM | Workshop | TBD |
-| 2:15 PM | Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
-| 3:00 PM | Workshop | TBD |
-| 3:45 PM | Workshop | TBD |
-| 4:30 PM | Future of metaprotocols panel | TBD |
-| 5:00 PM | Hackathon Kickoff | Hackathon Kickoff |
+| 1:00 PM | Workshop: building on taproot assets + surprise demo | TBD |
+| 1:30 PM | Workshop: Rust for wasm (and alkanes btw) | [judoflexchop](https://x.com/judoflexchop) |
+| 2:00 PM | Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
+| 2:30 PM | Workshop | TBD |
+| 3:00 PM | Workshop: building zk circuits w/ Cairo | TBD |
+| 3:30 PM | Workshop | TBD |
+| 4:00 PM | a really REALLY specific hackathon idea | [OwenKemeys](https://x.com/OwenKemeys) |
+| 4:20 PM | TBD | TBD |
+| 4:45 PM | Future of metaprotocols panel | TBD |
+| 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Dinner |
 
 **july 27**
@@ -87,13 +97,13 @@ if you want to speak, submit your workshop topic proposal [here](https://forms.g
 
  there will be a 24 hour hackathon sprint starting after the workshops (please sleep tho) for plebs to build and showcase innovative ideas for the bitcoin ecosystem. if you don't have any ideas yet, the workshops will most definitely give you some inspiration. 💡
 
-there will be prizes! (subject to change till the event starts).
+there will be prizes in different categories! (subject to change till the event starts).
 
-| track | cash prize |
+| category | cash prize |
 | --------- | ----- |
-| track 1 | $2000 |
-| track 2 | $2000 |
-| track 3 | $2000 |
+| category 1 | $2000 |
+| category 2 | $2000 |
+| category 3 | $2000 |
 
 
 ## basic rules
