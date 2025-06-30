@@ -66,11 +66,13 @@ if you want to speak, submit your workshop topic proposal [here](https://forms.g
 | 11:00 AM | TBD | TBD |
 | 11:30 AM | Filters and metaprotocols | [portlandhodl](https://x.com/PortlandHODL) |
 | 12:00 PM | Lunch | Lunch |
-| 1:00 PM | TBD | TBD |
+| 1:00 PM | Taproot Asset tips for hackathons | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Workshop | TBD |
-| 2:15 PM | Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
+| 2:00 PM | Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
+| 2:30 PM | Workshop | TBD |
 | 3:00 PM | Workshop | TBD |
-| 3:45 PM | Workshop | TBD |
+| 3:30 PM | Workshop | TBD |
+| 4:00 PM | Workshop | TBD |
 | 4:30 PM | Future of metaprotocols panel | TBD |
 | 5:00 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Dinner |
