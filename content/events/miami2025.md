@@ -48,7 +48,8 @@ ticket prices will be:
 interested in becoming a sponsor? help feed the plebs and fill out [this form](https://forms.gle/cnmdTceJZAhaGLuX8)! 🙏
 
 ## prepping for pleb.fi?
-resources and documentation coming soon...👾
+- Get up to speed on [WASM to build on Alkanes](https://github.com/rust-lang/rust/blob/master/src/doc/rustc/src/platform-support/wasm32-unknown-unknown.md).
+- 
 
 ## key dates
 
