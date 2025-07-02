@@ -49,7 +49,6 @@ interested in becoming a sponsor? help feed the plebs and fill out [this form](h
 
 ## prepping for pleb.fi?
 - Get up to speed on [WASM to build on Alkanes](https://github.com/rust-lang/rust/blob/master/src/doc/rustc/src/platform-support/wasm32-unknown-unknown.md).
-- 
 
 ## key dates
 
@@ -69,7 +68,7 @@ schedule subject to change at the whims of your organizers
 | 8:30 AM | Light breakfast and coffee | Light breakfast and coffee |
 | 9:00 AM | What's a metaprotocol? | TBD |
 | 9:30 AM | TBD | TBD |
-| 10:00 AM | metaprotocol soft fork? definitely not controversial | [joshdoman_](https://x.com/joshdoman_) |
+| 10:00 AM | Does Bitcoin need AML-compliant metaprotocols? | [joshdoman_](https://x.com/joshdoman_) |
 | 10:30 AM | TBD | TBD |
 | 11:00 AM | something you'll like, probably about ordinals | [raphjaph](https://x.com/raphjaph) |
 | 11:30 AM | Filters and metaprotocols | [portlandhodl](https://x.com/PortlandHODL) |
@@ -81,7 +80,7 @@ schedule subject to change at the whims of your organizers
 | 3:00 PM | Workshop: building zk circuits w/ Cairo | TBD |
 | 3:30 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
 | 4:00 PM | a really REALLY specific hackathon idea | [OwenKemeys](https://x.com/OwenKemeys) |
-| 4:20 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [@setzeus](https://x.com/setzeus) |
+| 4:20 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [setzeus](https://x.com/setzeus) |
 | 4:45 PM | Future of metaprotocols panel | TBD |
 | 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Dinner |
