@@ -65,9 +65,8 @@ schedule subject to change at the whims of your organizers
 **july 26**
 | Time | Topic | Speaker |
 | --------- | ----- | -----|
-| 8:30 AM | Light breakfast and coffee | Light breakfast and coffee |
-| 9:00 AM | What's a metaprotocol? | TBD |
-| 9:30 AM | TBD | TBD |
+| 9:00 AM | Light breakfast and coffee | Light breakfast and coffee |
+| 9:30 AM | Unlocking L1 programmability for Metaprotocols with policy signers | [Rijndael](https://x.com/rot13maxi) |
 | 10:00 AM | Does Bitcoin need AML-compliant metaprotocols? | [joshdoman_](https://x.com/joshdoman_) |
 | 10:30 AM | TBD | TBD |
 | 11:00 AM | something you'll like, probably about ordinals | [raphjaph](https://x.com/raphjaph) |
