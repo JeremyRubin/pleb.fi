@@ -79,7 +79,7 @@ schedule subject to change at the whims of your organizers
 | 3:00 PM |  Grabbing data for observability and analytics in Bitcoin & metaprotocols| [btc_luce](https://x.com/btc_luce) |
 | 3:30 PM | Nerdsniping you with cool metaprotocol signing stuff you can do on Passport Prime | [OwenKemeys](https://x.com/OwenKemeys) |
 | 4:00 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [setzeus](https://x.com/setzeus) |
-| 4:30 PM | Future of metaprotocols panel | TBD |
+| 4:30 PM | Future of metaprotocols panel | [FarmerJoe0x](https://x.com/FarmerJoe0x), [btc_luce](https://x.com/btc_luce), [TaggaOyl](https://x.com/taggaOyl) |
 | 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
 | 5:30 PM | Dinner | Dinner |
 
