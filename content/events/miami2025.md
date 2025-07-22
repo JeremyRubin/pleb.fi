@@ -68,10 +68,10 @@ schedule subject to change at the whims of your organizers
 | 9:00 AM | Light breakfast and coffee | Light breakfast and coffee |
 | 9:30 AM | Unlocking L1 programmability for Metaprotocols with policy signers | [Rijndael](https://x.com/rot13maxi) |
 | 10:00 AM | Does Bitcoin need AML-compliant metaprotocols? | [joshdoman_](https://x.com/joshdoman_) |
-| 10:30 AM | TBD | TBD |
-| 11:00 AM | something you'll like, probably about ordinals | [raphjaph](https://x.com/raphjaph) |
+| 10:30 AM | What's a metaprotocol panel | TBD |
+| 11:00 AM | Something you'll like, probably about ordinals | [raphjaph](https://x.com/raphjaph) |
 | 11:30 AM | Filters and metaprotocols | [portlandhodl](https://x.com/PortlandHODL) |
-| 12:00 PM | Lunch | Lunch |
+| 12:00 PM | Lunch | Empanadas! |
 | 1:00 PM | Taproot Asset tips for hackathons | [Jonathan Harvey-Buschel](https://x.com/jonhbit) |
 | 1:30 PM | Workshop: Rust for wasm (and alkanes btw) | [judoflexchop](https://x.com/judoflexchop) |
 | 2:00 PM | Workshop | TBD |
@@ -81,15 +81,16 @@ schedule subject to change at the whims of your organizers
 | 4:00 PM | Accelerating bitcoin txns: RBF vs CPFP vs P2A | [setzeus](https://x.com/setzeus) |
 | 4:30 PM | Future of metaprotocols panel | [Lukasz](https://x.com/lukaszwicher), [btc_luce](https://x.com/btc_luce), [TaggaOyl](https://x.com/taggaOyl) |
 | 5:15 PM | Hackathon Kickoff | Hackathon Kickoff |
-| 5:30 PM | Dinner | Dinner |
+| 5:30 PM | Dinner | Mediterranean food |
 
 **july 27**
 | Time | Topic | Speaker |
 | --------- | ----- | -----|
 | 9:00 AM | Light breakfast and coffee | Light breakfast and coffee |
-| 12:00 PM | Lunch | Lunch |
-| 4:00 PM | Presentations | Presentations |
-| 5:30 PM | After party | After party |
+| 12:00 PM | Lunch | Sandwiches |
+| 5:00 PM | Hackathon presentations | All projects present |
+| 6:15 PM | Winners announced | Closing ceremony |
+| 6:30 PM | Afterparty | Afterparty |
 
 ## hackathon rules
 
