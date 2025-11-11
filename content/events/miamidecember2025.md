@@ -1,10 +1,9 @@
 ---
 location: miami
-title: pleb.fi miami december 2025
-url: /miamidecember2025/
-description: pleb.fi. miami december 2025 event.
-aliases: ["/miamidecember2025/", "/MIAMIDECEMBER2025"]
-description: pleb.fi. Miami December 2025 event - Scaling Bitcoin.
+title: pleb.fi miami: scaling bitcoin
+url: /miamiscalingbitcoin/
+description: pleb.fi. Miami Scaling Bitcoin event - December 2025.
+aliases: ["/miamiscalingbitcoin/", "/MIAMISCALINGBITCOIN"]
 ---
 # [pleb.fi](https://pleb.fi/) miami: scaling bitcoin
 
