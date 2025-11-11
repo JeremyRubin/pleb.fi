@@ -1,8 +1,8 @@
 ---
 location: miami
-title: pleb.fi: scaling bitcoin
+title: "pleb.fi: scaling bitcoin"
 url: /scalingbitcoin/
-description: pleb.fi. Scaling Bitcoin event - December 2025.
+description: "pleb.fi. Scaling Bitcoin event - December 2025."
 aliases: ["/scalingbitcoin/", "/SCALINGBITCOIN"]
 ---
 # [pleb.fi](https://pleb.fi/): scaling bitcoin
