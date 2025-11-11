@@ -79,11 +79,11 @@ we'll adjust this as we near the event… so expect the unexpected
 
 (Full Schedule coming soon)
 
-have a talk or workshop idea? Submit this form!
+have a talk or workshop idea? submit [this form](https://371ap9xb8m0.typeform.com/to/cyTosf9s)!
 
-interested in being a sponsor? or help organize? reach out!
+interested in being a sponsor? or help organize? [reach out](https://twitter.com/intent/tweet?text=hey%20@bitcoingrove,%20scaling%20bitcoin?)!
 
-join the bitcoin grove telegram group to stay fully looped in!
+join the bitcoin grove [telegram group](https://t.me/btcgrove) to stay fully looped in!
 
 ## other fun around the event
 
