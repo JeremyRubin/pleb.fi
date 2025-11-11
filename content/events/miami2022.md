@@ -2,7 +2,6 @@
 location: miami
 title: pleb.fi miami 2022
 url: /miami2022/
-description: pleb.fi. miami event.
 aliases: ["/Miami2022/", "/MIAMI2022", "/SAPIOSZN", "SapioSzn", "sapioszn"]
 description: pleb.fi. miami 2022 event, bring a change of socks.
 ---
