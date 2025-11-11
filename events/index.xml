@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>all pleb.fi events on the most pleb conf</title><link>https://pleb.fi/events/</link><description>Recent content in all pleb.fi events on the most pleb conf</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://pleb.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>pleb.fi austin</title><link>https://pleb.fi/austin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/austin/</guid><description>&lt;h1 id="plebfi">&lt;a href="https://pleb.fi/">pleb.fi&lt;/a>&lt;/h1>
-&lt;h1 id="austin">&lt;a href="https://pleb.fi/austin">/austin&lt;/a>&lt;/h1>
-&lt;h2 id="in-austin-august-21st-22nd-weekend-before-bitblockboom-dallas">in austin august 21st-22nd&lt;br> (weekend before bitblockboom dallas)&lt;/h2>
-&lt;h2 id="bring-your-pajamas">bring your pajamas&lt;/h2>
-&lt;h2 id="theres-a-hackathon">(there&amp;rsquo;s a hackathon)&lt;/h2>
-&lt;h3 id="tweet">&lt;a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=i%20am%20a%20total%20pleb%20and%20i%20wanna%20go%20to&amp;hashtags=bitcoin" data-size="large"> Tweet&lt;/a>&lt;/h3>
-&lt;hr>
-&lt;h3 id="our-lovely-event-sponsors">our lovely event sponsors&lt;/h3>
-&lt;style>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>all pleb.fi events on the most pleb conf</title><link>https://pleb.fi/events/</link><description>Recent content in all pleb.fi events on the most pleb conf</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://pleb.fi/events/index.xml" rel="self" type="application/rss+xml"/><item><title>pleb.fi austin</title><link>https://pleb.fi/austin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/austin/</guid><description>&lt;h1 id="plebfi"&gt;&lt;a href="https://pleb.fi/"&gt;pleb.fi&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id="austin"&gt;&lt;a href="https://pleb.fi/austin"&gt;/austin&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id="in-austin-august-21st-22nd-weekend-before-bitblockboom-dallas"&gt;in austin august 21st-22nd&lt;br&gt; (weekend before bitblockboom dallas)&lt;/h2&gt;
+&lt;h2 id="bring-your-pajamas"&gt;bring your pajamas&lt;/h2&gt;
+&lt;h2 id="theres-a-hackathon"&gt;(there&amp;rsquo;s a hackathon)&lt;/h2&gt;
+&lt;h3 id="tweet"&gt;&lt;a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=i%20am%20a%20total%20pleb%20and%20i%20wanna%20go%20to&amp;hashtags=bitcoin" data-size="large"&gt; Tweet&lt;/a&gt;&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h3 id="our-lovely-event-sponsors"&gt;our lovely event sponsors&lt;/h3&gt;
+&lt;style&gt;
 .sponsors-box {
  display: grid;
  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -16,174 +16,185 @@
 }
 
 
-&lt;/style>
-&lt;div class="sponsors-box">
+&lt;/style&gt;
+&lt;div class="sponsors-box"&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/tvp.png"/>&lt;/p>
- &lt;p> &lt;a href="https://tvp.fund">&lt;h3>trammell venture partners&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/tvp.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://tvp.fund"&gt;&lt;h3&gt;trammell venture partners&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/lnpay.png"/>&lt;/p>
- &lt;p> &lt;a href="https://lnpay.co">&lt;h3>lnpay&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/lnpay.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://lnpay.co"&gt;&lt;h3&gt;lnpay&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/judica.png"/>&lt;/p>
- &lt;p> &lt;a href="https://judica.org">&lt;h3>judica&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/judica.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://judica.org"&gt;&lt;h3&gt;judica&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/lincoln.png"/>&lt;/p>
- &lt;p> &lt;a href="https://joinlincoln.org">&lt;h3>lincoln network&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/lincoln.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://joinlincoln.org"&gt;&lt;h3&gt;lincoln network&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/unchained.png"/>&lt;/p>
- &lt;p> &lt;a href="https://unchained-capital.com">&lt;h3>unchained capital&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/unchained.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://unchained-capital.com"&gt;&lt;h3&gt;unchained capital&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/sphinx.png"/>&lt;/p>
- &lt;p> &lt;a href="https://sphinx.chat">&lt;h3>sphinx.chat&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/sphinx.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://sphinx.chat"&gt;&lt;h3&gt;sphinx.chat&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/anon.png"/>&lt;/p>
- &lt;p> &lt;a href="http://www.nyan.cat">&lt;h3>anon supporter &amp;lt;3&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/anon.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="http://www.nyan.cat"&gt;&lt;h3&gt;anon supporter &amp;lt;3&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/voltage.png"/>&lt;/p>
- &lt;p> &lt;a href="https://voltage.cloud">&lt;h3>voltage cloud&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/voltage.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://voltage.cloud"&gt;&lt;h3&gt;voltage cloud&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/fulgur.png"/>&lt;/p>
- &lt;p> &lt;a href="https://fulgur.ventures">&lt;h3>fulgur ventures&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/fulgur.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://fulgur.ventures"&gt;&lt;h3&gt;fulgur ventures&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/larry.png"/>&lt;/p>
- &lt;p> &lt;a href="https://twitter.com/LarryChiang">&lt;h3>larry chiang&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/larry.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://twitter.com/LarryChiang"&gt;&lt;h3&gt;larry chiang&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/stakedog.png"/>&lt;/p>
- &lt;p> &lt;a href="https://staking.dog">&lt;h3>staking.dog&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/stakedog.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://staking.dog"&gt;&lt;h3&gt;staking.dog&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/fold.png"/>&lt;/p>
- &lt;p> &lt;a href="https://foldapp.com">&lt;h3>fold&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/fold.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://foldapp.com"&gt;&lt;h3&gt;fold&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/casa.png"/>&lt;/p>
- &lt;p> &lt;a href="https://keys.casa">&lt;h3>casa&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/casa.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://keys.casa"&gt;&lt;h3&gt;casa&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/galaxy.png"/>&lt;/p>
- &lt;p> &lt;a href="https://www.galaxydigital.io">&lt;h3>galaxy digital&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/galaxy.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://www.galaxydigital.io"&gt;&lt;h3&gt;galaxy digital&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
- &lt;div class="sponsor">
- &lt;p> &lt;img src="https://pleb.fi/images/sponsors/amanda.png"/>&lt;/p>
- &lt;p> &lt;a href="https://twitter.com/_amanda_fab?lang=en">&lt;h3>amanda fabiano&lt;/h3>&lt;/a>&lt;/p>
+ &lt;div class="sponsor"&gt;
+ &lt;p&gt; &lt;img src="https://pleb.fi/images/sponsors/amanda.png"/&gt;&lt;/p&gt;
+ &lt;p&gt; &lt;a href="https://twitter.com/_amanda_fab?lang=en"&gt;&lt;h3&gt;amanda fabiano&lt;/h3&gt;&lt;/a&gt;&lt;/p&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
-&lt;/div>
-&lt;br>
+&lt;/div&gt;
+&lt;br&gt;
 
-&lt;hr>
-&lt;h1 id="key-dates">key dates&lt;/h1>
-&lt;p>&lt;em>see below for exact agenda.&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>sat 21st august day: workshops + talks&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>sat 21st august evening: hackathon kickoff&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>sunday 22nd august day: hackathon&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>sunday 22nd august evening: hackathon demos&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;h2 id="other-fun-around-the-event">other fun around the event&lt;/h2>
-&lt;p>pleb.fi is the 21st/22nd, but there&amp;rsquo;s some other nearby bitcoin stuff&lt;/p></description></item><item><title>pleb.fi miami</title><link>https://pleb.fi/miami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami/</guid><description>&lt;h1>&lt;a href="https://pleb.fi/">pleb.fi&lt;/a>&lt;/h2>
-&lt;h1>&lt;a href="https://pleb.fi/miami">/miami&lt;/a>&lt;/h2>
+&lt;hr&gt;
+&lt;h1 id="key-dates"&gt;key dates&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;see below for exact agenda.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;sat 21st august day: workshops + talks&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sat 21st august evening: hackathon kickoff&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sunday 22nd august day: hackathon&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sunday 22nd august evening: hackathon demos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="other-fun-around-the-event"&gt;other fun around the event&lt;/h2&gt;
+&lt;p&gt;pleb.fi is the 21st/22nd, but there&amp;rsquo;s some other nearby bitcoin stuff&lt;/p&gt;</description></item><item><title>pleb.fi miami</title><link>https://pleb.fi/miami/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami/</guid><description>&lt;h1&gt;&lt;a href="https://pleb.fi/"&gt;pleb.fi&lt;/a&gt;&lt;/h2&gt;
+&lt;h1&gt;&lt;a href="https://pleb.fi/miami"&gt;/miami&lt;/a&gt;&lt;/h2&gt;
 
-&lt;h1>&lt;a href="https://pleb.fi/miami2022">???Looking for 2022???&lt;/a>&lt;/h1>
-
-
-&lt;h2> never stop improvin bitcoin,&lt;br>
-but specifically on june 6th 2021 in miami&lt;/h2>
-&lt;img src="https://pleb.fi/pleb.jpg" width="500px" />
-
-&lt;h2> think outside the box&lt;/h2>
+&lt;h1&gt;&lt;a href="https://pleb.fi/miami2022"&gt;???Looking for 2022???&lt;/a&gt;&lt;/h1&gt;
 
 
-&lt;p>
+&lt;h2&gt; never stop improvin bitcoin,&lt;br&gt;
+but specifically on june 6th 2021 in miami&lt;/h2&gt;
+&lt;img src="https://pleb.fi/pleb.jpg" width="500px" /&gt;
+
+&lt;h2&gt; think outside the box&lt;/h2&gt;
+
+
+&lt;p&gt;
 june 6th, 2021, miami at a secret location, 12-5pm.
-&lt;/p>
-&lt;p> not the best. not the brightest. the plebs. &lt;/p>
-&lt;p>
+&lt;/p&gt;
+&lt;p&gt; not the best. not the brightest. the plebs. &lt;/p&gt;
+&lt;p&gt;
 like 50 of them.
-&lt;/p>
+&lt;/p&gt;
 
-&lt;p>
+&lt;p&gt;
 come for a day of hacking, mentorship, workshops, and discussions on how to contribute to bitcoin
 functionality accelerationism and build decentralized finance applications on bitcoin. we'll also
 get into how to get your project funded either traditionally or through new age pleb means.
-&lt;/p></description></item><item><title>pleb.fi miami 2022</title><link>https://pleb.fi/miami2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2022/</guid><description>&lt;h1 id="plebfi">&lt;a href="https://pleb.fi/">pleb.fi&lt;/a>&lt;/h1>
-&lt;h1 id="miami2022">&lt;a href="https://pleb.fi/miami2022">/miami2022&lt;/a>&lt;/h1>
-&lt;h5 id="-the-plebs-are-back-in-town">🎶 the plebs are back in town🎶&lt;/h5>
-&lt;h4 id="badder">badder&lt;/h4>
-&lt;h2 id="bigger">BIGGER&lt;/h2>
-&lt;h3 id="but-most-importantly">but most importantly&amp;hellip;&lt;/h3>
-&lt;h1 id="plebber">PLEBBER&lt;/h1>
-&lt;h5 id="april-4-5th-2022-in-miami-hialeah-area">april 4-5th 2022 in miami (hialeah area)&lt;/h5>
-&lt;h1 id="its-sapioszn">its sapioszn&lt;/h1>
-&lt;h1 id="get-in-loser-were-buidling">get in loser we&amp;rsquo;re buidling&lt;/h1>
-&lt;img src="https://pleb.fi/pleb22.jpg" width="500px" />
-&lt;h3 id="if-you-dont-come-you-will-have-to-turn-in-your-pleb-card">if you dont come you will have to turn in your pleb card&lt;/h3>
-&lt;p>come for 2 days of hacking, mentorship, workshops, and discussions on how to
+&lt;/p&gt;</description></item><item><title>pleb.fi miami 2022</title><link>https://pleb.fi/miami2022/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2022/</guid><description>&lt;h1 id="plebfi"&gt;&lt;a href="https://pleb.fi/"&gt;pleb.fi&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id="miami2022"&gt;&lt;a href="https://pleb.fi/miami2022"&gt;/miami2022&lt;/a&gt;&lt;/h1&gt;
+&lt;h5 id="-the-plebs-are-back-in-town"&gt;🎶 the plebs are back in town🎶&lt;/h5&gt;
+&lt;h4 id="badder"&gt;badder&lt;/h4&gt;
+&lt;h2 id="bigger"&gt;BIGGER&lt;/h2&gt;
+&lt;h3 id="but-most-importantly"&gt;but most importantly&amp;hellip;&lt;/h3&gt;
+&lt;h1 id="plebber"&gt;PLEBBER&lt;/h1&gt;
+&lt;h5 id="april-4-5th-2022-in-miami-hialeah-area"&gt;april 4-5th 2022 in miami (hialeah area)&lt;/h5&gt;
+&lt;h1 id="its-sapioszn"&gt;its sapioszn&lt;/h1&gt;
+&lt;h1 id="get-in-loser-were-buidling"&gt;get in loser we&amp;rsquo;re buidling&lt;/h1&gt;
+&lt;img src="https://pleb.fi/pleb22.jpg" width="500px" /&gt;
+&lt;h3 id="if-you-dont-come-you-will-have-to-turn-in-your-pleb-card"&gt;if you dont come you will have to turn in your pleb card&lt;/h3&gt;
+&lt;p&gt;come for 2 days of hacking, mentorship, workshops, and discussions on how to
 contribute to bitcoin functionality accelerationism and build kickass
 applications on bitcoin using sapio, taproot, ctv, and more. we&amp;rsquo;ll also get
 into how to get your project funded either traditionally or through new age
-pleb means.&lt;/p></description></item><item><title>pleb.fi miami 2023</title><link>https://pleb.fi/miami2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2023/</guid><description>&lt;h1 id="plebfi">&lt;a href="https://pleb.fi/">pleb.fi&lt;/a>&lt;/h1>
-&lt;h1 id="miami2023">&lt;a href="https://pleb.fi/miami2023">/miami2023&lt;/a>&lt;/h1>
-&lt;h5 id="-guess-whos-back-">🎶 guess who&amp;rsquo;s back 🎶&lt;/h5>
-&lt;h4 id="back-again">back again&lt;/h4>
-&lt;h2 id="plebfis-back">PLEBFI&amp;rsquo;S BACK&lt;/h2>
-&lt;h3 id="back-again-1">BACK AGAIN&lt;/h3>
-&lt;h1 id="plebfisbackplebfisback">PLEBFISBACKPLEBFISBACK&lt;/h1>
-&lt;h1 id="plebfisbackplebfisback-1">PLEBFISBACKPLEBFISBACK&lt;/h1>
-&lt;p>may 16-17 in Wynnwood&lt;/p>
-&lt;h1 id="its-bankless-season">its bankLESS season&lt;/h1>
-&lt;img src="https://pleb.fi/pleb23-1.jpg" width="500px" />
-&lt;h3 id="if-you-dont-come-you-will-have-to-turn-in-your-pleb-card">if you dont come you will have to turn in your pleb card&lt;/h3>
-&lt;p>come for 2 days of hacking, mentorship, workshops, and discussions on how to
+pleb means.&lt;/p&gt;</description></item><item><title>pleb.fi miami 2023</title><link>https://pleb.fi/miami2023/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2023/</guid><description>&lt;h1 id="plebfi"&gt;&lt;a href="https://pleb.fi/"&gt;pleb.fi&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id="miami2023"&gt;&lt;a href="https://pleb.fi/miami2023"&gt;/miami2023&lt;/a&gt;&lt;/h1&gt;
+&lt;h5 id="-guess-whos-back-"&gt;🎶 guess who&amp;rsquo;s back 🎶&lt;/h5&gt;
+&lt;h4 id="back-again"&gt;back again&lt;/h4&gt;
+&lt;h2 id="plebfis-back"&gt;PLEBFI&amp;rsquo;S BACK&lt;/h2&gt;
+&lt;h3 id="back-again-1"&gt;BACK AGAIN&lt;/h3&gt;
+&lt;h1 id="plebfisbackplebfisback"&gt;PLEBFISBACKPLEBFISBACK&lt;/h1&gt;
+&lt;h1 id="plebfisbackplebfisback-1"&gt;PLEBFISBACKPLEBFISBACK&lt;/h1&gt;
+&lt;p&gt;may 16-17 in Wynnwood&lt;/p&gt;
+&lt;h1 id="its-bankless-season"&gt;its bankLESS season&lt;/h1&gt;
+&lt;img src="https://pleb.fi/pleb23-1.jpg" width="500px" /&gt;
+&lt;h3 id="if-you-dont-come-you-will-have-to-turn-in-your-pleb-card"&gt;if you dont come you will have to turn in your pleb card&lt;/h3&gt;
+&lt;p&gt;come for 2 days of hacking, mentorship, workshops, and discussions on how to
 contribute to bitcoin functionality accelerationism and build kickass
 applications on bitcoin using nostr, fedimint, miniscript, and more. we&amp;rsquo;ll also get
 into how to get your project funded either traditionally or through new age
-pleb means.&lt;/p></description></item><item><title>pleb.fi miami 2025</title><link>https://pleb.fi/miami2025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2025/</guid><description>&lt;h1 id="plebfi-miami-2025">&lt;a href="https://pleb.fi/">pleb.fi&lt;/a> miami 2025&lt;/h1>
-&lt;h2 id="-metaprotocols-">🪐 METAPROTOCOLS 🪐&lt;/h2>
-&lt;img src="https://pleb.fi/pleb25-1.gif" width="500px" />
-&lt;h3 id="surprise-its-metaprotocols">surprise! its metaprotocols!&lt;/h3>
-&lt;p>there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into some ways to extend bitcoin&amp;rsquo;s functionality without a soft fork :)&lt;/p>
-&lt;p>come learn, hack, and join us as we never stop improvin&amp;rsquo; bitcoin!&lt;/p>
-&lt;h2 id="when">when?&lt;/h2>
-&lt;p>july 26-27 at the Port in Miami&lt;/p></description></item></channel></rss>
+pleb means.&lt;/p&gt;</description></item><item><title>pleb.fi miami 2025</title><link>https://pleb.fi/miami2025/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/miami2025/</guid><description>&lt;h1 id="plebfi-miami-2025"&gt;&lt;a href="https://pleb.fi/"&gt;pleb.fi&lt;/a&gt; miami 2025&lt;/h1&gt;
+&lt;h2 id="-metaprotocols-"&gt;🪐 METAPROTOCOLS 🪐&lt;/h2&gt;
+&lt;img src="https://pleb.fi/pleb25-1.gif" width="500px" /&gt;
+&lt;h3 id="surprise-its-metaprotocols"&gt;surprise! its metaprotocols!&lt;/h3&gt;
+&lt;p&gt;there has been a renaissance in metaprotocols over the past couple of years including but not limited to ordinals, BRC20, alkanes, taproot assets, and more! join us as we dive into some ways to extend bitcoin&amp;rsquo;s functionality without a soft fork :)&lt;/p&gt;
+&lt;p&gt;come learn, hack, and join us as we never stop improvin&amp;rsquo; bitcoin!&lt;/p&gt;
+&lt;h2 id="when"&gt;when?&lt;/h2&gt;
+&lt;p&gt;july 26-27 at the Port in Miami&lt;/p&gt;</description></item><item><title>pleb.fi: scaling bitcoin</title><link>https://pleb.fi/scalingbitcoin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://pleb.fi/scalingbitcoin/</guid><description>&lt;h1 id="plebfi-scaling-bitcoin"&gt;&lt;a href="https://pleb.fi/"&gt;pleb.fi&lt;/a&gt;: scaling bitcoin&lt;/h1&gt;
+&lt;p&gt;at bitcoin grove on december 6th-7th&lt;/p&gt;
+&lt;p&gt;during miami art week, oooh ahhh&lt;/p&gt;
+&lt;h2 id="when"&gt;when?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;saturday december 6th morning:&lt;/strong&gt; workshops + talks on scaling bitcoin&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;saturday december 6th afternoon:&lt;/strong&gt; hackathon kickoff (with cuban coffee, sleep later)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sunday december 7th morning:&lt;/strong&gt; hackathon (build under the miami sun)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;sunday december 7th afternoon:&lt;/strong&gt; hackathon demos (and maybe some karaoke to celebrate)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;the theme? scaling bitcoin&lt;/p&gt;
+&lt;p&gt;it&amp;rsquo;s going to be off the chain! lightning, sidechains, statechains, arks, batching, rollups, and more? workshops to get you inspired, then 24 hours to hack something that actually works&lt;/p&gt;</description></item></channel></rss>
