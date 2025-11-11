@@ -1,11 +1,11 @@
 ---
 location: miami
-title: pleb.fi miami: scaling bitcoin
-url: /miamiscalingbitcoin/
-description: pleb.fi. Miami Scaling Bitcoin event - December 2025.
-aliases: ["/miamiscalingbitcoin/", "/MIAMISCALINGBITCOIN"]
+title: pleb.fi: scaling bitcoin
+url: /scalingbitcoin/
+description: pleb.fi. Scaling Bitcoin event - December 2025.
+aliases: ["/scalingbitcoin/", "/SCALINGBITCOIN"]
 ---
-# [pleb.fi](https://pleb.fi/) miami: scaling bitcoin
+# [pleb.fi](https://pleb.fi/): scaling bitcoin
 
 at bitcoin grove on december 6th-7th
 
