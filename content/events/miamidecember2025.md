@@ -3,7 +3,7 @@ location: miami
 title: "pleb.fi: scaling bitcoin"
 url: /scalingbitcoin/
 description: "pleb.fi. Scaling Bitcoin event - December 2025."
-aliases: ["/scalingbitcoin/", "/SCALINGBITCOIN"]
+aliases: ["/scalingbitcoin/", "/SCALINGBITCOIN", "/scaling_bitcoin", "/miamidecember2025"]
 ---
 # [pleb.fi](https://pleb.fi/): scaling bitcoin
 
@@ -76,7 +76,23 @@ we'll adjust this as we near the event… so expect the unexpected
 
 ## day 1 workshops: december 6th 2025
 
-(Full Schedule coming soon)
+here's the saturday schedule (bios + deeper talk details coming soon):
+
+| Time | Topic | thanks to | bios | talk detail | more links |
+| --- | --- | --- | --- | --- | --- |
+| 9:00 AM | Coffee and Bagels | El Bagel |  |  |  |
+| 9:30 AM | Introduction to Simplicity | Randy |  |  | https://docs.simplicity-lang.org/ |
+| 10:00 AM | Home Server Live Demo | Michael |  |  | https://github.com/evansmj/rpi-tunnel |
+| 11:00 AM | Building The Char Network | Jeremy |  |  |  |
+| 11:30 AM | Hacking Bitcoin’s Block Builder | Eric |  | slides | https://github.com/gimballock/sv2-tp/blob/master/docker/hacking-bitcoin-block-builder.md |
+| 12:00 PM | Lunch | Sanguich |  |  |  |
+| 1:00 PM | Workshop: Building with Bark - the Ark implementation by Second | Matthew |  |  | https://docs.second.tech/ |
+| 2:30 PM | Airly Magic: Data availability compression for CUBE | Burak |  |  | https://github.com/cube-btc |
+| 3:00 PM | CLN Plugin System | Michael |  |  | https://docs.corelightning.org/docs/plugins |
+| 3:15 PM | Coin Standard | Ras |  |  | https://coinpill.me/ |
+| 3:30 PM | Workshop: Simplicity Micro-Bootcamp | Randy |  |  |  |
+| 4:30 PM | Livecoding a Char app | Stutxo |  |  |  |
+| 6:00 PM | Hackathon Kickoff (millions of coins in prizes) | Char Network, Set Dev, Blockstream, and Bitcoin Grove |  |  |  |
 
 have a talk or workshop idea? submit [this form](https://371ap9xb8m0.typeform.com/to/cyTosf9s)!
 
@@ -91,4 +107,3 @@ pleb.fi is the 6th/7th, and miami will be buzzing with art vibes. bookend your s
 ## location
 
 Bitcoin Grove
-
